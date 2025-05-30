@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-05-28T07:55:44.272Z
+# 由bookmark-processor.js生成于 2025-05-30T16:46:26.010Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1653,6 +1653,10 @@ categories:
         description: ""
       - name: 阡途导航
         url: http://123.tentod.com/
+        icon: fas fa-link
+        description: ""
+      - name: 福利吧导航 | 发现更大的世界
+        url: https://fuliba123.com/
         icon: fas fa-link
         description: ""
   - name: some_sites
