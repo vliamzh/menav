@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-01T06:37:53.609Z
+# 由bookmark-processor.js生成于 2025-06-01T15:14:26.194Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -9,6 +9,14 @@ categories:
   - name: Chrome
     icon: fas fa-folder
     sites:
+      - name: Material Soft Light
+        url: https://chromewebstore.google.com/detail/material-soft-light/chhhpnfgjloknnbiegfmlopkahnhplff
+        icon: fab fa-google
+        description: ""
+      - name: 谷歌商店
+        url: https://chrome.google.com/webstore
+        icon: fab fa-google
+        description: ""
       - name: 书签
         url: chrome://bookmarks/
         icon: fas fa-link
@@ -63,458 +71,6 @@ categories:
         description: ""
       - name: 重启浏览器
         url: chrome://restart/
-        icon: fas fa-link
-        description: ""
-      - name: Material Soft Light
-        url: https://chromewebstore.google.com/detail/material-soft-light/chhhpnfgjloknnbiegfmlopkahnhplff
-        icon: fab fa-google
-        description: ""
-      - name: 谷歌商店
-        url: https://chrome.google.com/webstore
-        icon: fab fa-google
-        description: ""
-  - name: 专利
-    icon: fas fa-folder
-    sites:
-      - name: 中国专利下载
-        url: https://www.drugfuture.com/cnpat/cn_patent.asp
-        icon: fas fa-link
-        description: ""
-      - name: Patent9专利在线-我的专利笔记
-        url: https://www.patent9.com/
-        icon: fas fa-link
-        description: ""
-      - name: 资源导航 - 东南大学图书馆
-        url: http://lib.seu.edu.cn/list.php?fid=451
-        icon: fas fa-link
-        description: ""
-      - name: 壹专利-专利查询_专利检索_专利分析_全球专利数据库_壹专利_广州奥凯信息咨询有限公司
-        url: https://www.patyee.com/search/quick
-        icon: fas fa-link
-        description: ""
-      - name: 东南大学-机构知识库 机构智库
-        url: http://58.192.117.79/Index.aspx
-        icon: fas fa-link
-        description: ""
-  - name: Zotero
-    icon: fas fa-folder
-    sites:
-      - name: 假期如何在家愉快地使用Zotero和知网数据 - 知乎
-        url: https://zhuanlan.zhihu.com/p/111857132
-        icon: fas fa-link
-        description: ""
-      - name: ShareStuff
-        url: https://isharestuff.github.io/ShareStuff/Maps.html
-        icon: fab fa-github
-        description: ""
-      - name: 使用坚果云实现Zotero文件同步_zotero 坚果云-CSDN博客
-        url: https://blog.csdn.net/weixin_51397022/article/details/130529820
-        icon: fas fa-link
-        description: ""
-      - name: Zotero使用指南
-        url: https://zhuanlan.zhihu.com/p/622062237?utm_id=0
-        icon: fas fa-link
-        description: ""
-      - name: Zotero 中文小组 | Zotero 中文小组
-        url: https://zotero-chinese.com/
-        icon: fas fa-link
-        description: ""
-      - name: Zotero影响因子、期刊标签不显示最新解决教程 - 知乎
-        url: https://zhuanlan.zhihu.com/p/670327264
-        icon: fas fa-link
-        description: ""
-  - name: lumerical
-    icon: fas fa-folder
-    sites:
-      - name: FDTD和MODE中的PML边界
-        url: https://zhuanlan.zhihu.com/p/560832768?utm_id=0
-        icon: fas fa-link
-        description: ""
-      - name: mode功能介绍
-        url: https://mp.weixin.qq.com/s/vY26Q0yufQ9iVH-AJbACQA
-        icon: fas fa-link
-        description: ""
-      - name: EME solver
-        url: https://blog.csdn.net/XHyoungTiger/article/details/124386104?spm=1001.2101.3001.6650.6&amp;utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-6-124386104-blog-134879056.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-6-124386104-blog-134879056.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;utm_relevant_index=8
-        icon: fas fa-link
-        description: ""
-      - name: Mode 的电场分布数据导出到 Matlab 进行处理
-        url: https://blog.csdn.net/qq_36492724/article/details/129854232?spm=1001.2101.3001.6650.15&amp;utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-15-129854232-blog-127056060.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-15-129854232-blog-127056060.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;utm_relevant_index=21
-        icon: fas fa-link
-        description: ""
-      - name: 硅光设计-CSDN博客
-        url: https://pic-design.blog.csdn.net/?type=blog
-        icon: fas fa-link
-        description: ""
-      - name: FDTD快速入门之Lumerical脚本语言Pickup（一）序言_lumerical script教程-CSDN博客
-        url: https://blog.csdn.net/weixin_44224652/article/details/112677982
-        icon: fas fa-link
-        description: ""
-      - name: 【软件目录】
-        url: https://mp.weixin.qq.com/s/LHcB77AM6SND0jbR2Pl7Ag
-        icon: fas fa-link
-        description: ""
-      - name: lumerical solutions 脚本代码 微环腔 贝塞尔曲线 研究步骤_lumerical脚本教程-CSDN博客
-        url: https://blog.csdn.net/x1131230123/article/details/100537193
-        icon: fas fa-link
-        description: ""
-      - name: Lumerical使用经验（group structure, script, bezier bend） - 知乎
-        url: https://zhuanlan.zhihu.com/p/570268973
-        icon: fas fa-link
-        description: ""
-      - name: Lumerical使用经验7 (Matlab控制Lumerical) - 知乎
-        url: https://zhuanlan.zhihu.com/p/678425334
-        icon: fas fa-link
-        description: ""
-      - name: lumerical FDTD、MODE自学日记_fdtd模拟受激辐射激光器-CSDN博客
-        url: https://blog.csdn.net/weixin_43413070/article/details/126698924
-        icon: fas fa-link
-        description: ""
-      - name: ANSYS Lumerical 2023 R1破解版（附带详细安装教程）
-        url: https://www.ittel.cn/archives/13085.html
-        icon: fas fa-link
-        description: ""
-      - name: 光子学
-        url: https://v.ansys.com.cn/channel/252
-        icon: fas fa-link
-        description: ""
-      - name: (51条消息) Lumerical官方案例、FDTD时域有限差分法仿真学习（三）——环形谐振器(Ring resonator)之第一部分_子非鱼icon的博客-CSDN博客
-        url: https://blog.csdn.net/weixin_45719141/article/details/123286653
-        icon: fas fa-link
-        description: ""
-      - name: 一种连续线性调频激光光源的制作方法
-        url: https://www.xjishu.com/zhuanli/59/201710864805.html
-        icon: fas fa-link
-        description: ""
-      - name: FDTD product reference manual – Ansys Optics
-        url: https://optics.ansys.com/hc/en-us/articles/360033154434
-        icon: fas fa-link
-        description: ""
-      - name: 光子積體電路(PIC)模擬最佳利器 Ansys Lumerical - Comprehensive PIC Design Solutions | Drupal
-        url: https://www.macnica.com.tw/node/386
-        icon: fas fa-link
-        description: ""
-      - name: FDTD仿真反射率_sunfove的博客-CSDN博客_fdtd反射率大于1
-        url: https://blog.csdn.net/sunfove/article/details/120635794
-        icon: fas fa-link
-        description: ""
-  - name: 论文
-    icon: fas fa-folder
-    sites:
-      - name: 干货：FMCW雷达系统信号处理建模与仿真（含MATLAB代码）_51CTO博客_雷达信号仿真 matlab
-        url: https://blog.51cto.com/u_12413309/6255997
-        icon: fas fa-link
-        description: ""
-      - name: FMCW激光雷达-CSDN博客
-        url: https://blog.csdn.net/qq_40624256/article/details/108897013
-        icon: fas fa-link
-        description: ""
-      - name: 用于FMCW LIDAR的的高功率DBR激光器_上海交大用于激光雷达fmcw的可调谐窄线宽激光器的设计-CSDN博客
-        url: https://blog.csdn.net/qq_40624256/article/details/125114232?spm=1001.2014.3001.5502
-        icon: fas fa-link
-        description: ""
-      - name: 模斑转换器SSC-CSDN博客
-        url: https://blog.csdn.net/qq_40624256/article/details/131828091?spm=1001.2014.3001.5502
-        icon: fas fa-link
-        description: ""
-      - name: 干货：FMCW雷达系统信号处理建模与仿真（含matlab代码） - 知乎
-        url: https://zhuanlan.zhihu.com/p/508764579
-        icon: fas fa-link
-        description: ""
-      - name: Ansys Lumerical MODE光波导设计软件_光学软件_软件及服务_供应信息_光电行业门户
-        url: https://b2b.csoe.org.cn/sell/show-158.html
-        icon: fas fa-link
-        description: ""
-      - name: 关于中国用户访问Lumerical官网和帐号注册的补充说明
-        url: https://forum.ansys.com/forums/topic/guanyuzhongguoyonghufangwenlumericalguanwanghezhanghaozhucedebuchongshuoming/
-        icon: fas fa-link
-        description: ""
-      - name: Lumerical边界条件(Metal &amp; PML) - 知乎
-        url: https://zhuanlan.zhihu.com/p/647137255
-        icon: fas fa-link
-        description: ""
-      - name: 毕业论文-论文公式编辑与公式编号 - 知乎
-        url: https://zhuanlan.zhihu.com/p/129896954
-        icon: fas fa-link
-        description: ""
-      - name: 论文写作的必备的公式操作
-        url: https://mp.weixin.qq.com/s?__biz=MjM5ODc2Mzk2MA==&amp;mid=2451750989&amp;idx=1&amp;sn=80da1a3a8bfa86979706bfe7528458dc&amp;chksm=b113ac9a8664258c97cdfa058006458c1b5a5b2c9f7243a5b39e20251587cf0863eb9e3685cb&amp;scene=27
-        icon: fas fa-link
-        description: ""
-      - name: 制图与软件技巧分享36期：论文公式排版小技巧
-        url: https://mp.weixin.qq.com/s/xRQ2vFwhi9oVYu5F-RBUvA
-        icon: fas fa-link
-        description: ""
-      - name: 调频连续波（FMCW）波形设计、真实道路场景仿真及汽车自适应巡航控制信号处理（Matlab代码实现）-阿里云开发者社区
-        url: https://developer.aliyun.com/article/1298003
-        icon: fas fa-link
-        description: ""
-      - name: 在matlab中去除直流分量的方法_处理直流分量-CSDN博客
-        url: https://blog.csdn.net/qinghuanduji/article/details/114698089
-        icon: fas fa-link
-        description: ""
-      - name: 信号生成和可视化 - MATLAB &amp; Simulink Example - MathWorks 中国
-        url: https://ww2.mathworks.cn/help/signal/ug/signal-generation-and-visualization.html
-        icon: fas fa-link
-        description: ""
-      - name: simulink中求解器设置为离散，固定步长所带来的影响_求解器步长-CSDN博客
-        url: https://blog.csdn.net/qq_39529052/article/details/109291578
-        icon: fas fa-link
-        description: ""
-      - name: Simulink常用快捷键(仿真开始/查看simple time)_simulink停止快捷键-CSDN博客
-        url: https://blog.csdn.net/xingmeng416/article/details/105953845/
-        icon: fas fa-link
-        description: ""
-      - name: 激光器的工作原理、激光技术的基本原理
-        url: https://www.troteclaser.com/zh/learn-support/faqs/how-does-a-laser-work
-        icon: fas fa-link
-        description: ""
-      - name: "爱因斯坦在1916: 从引力波到量子电磁辐射理论"
-        url: http://html.rhhz.net/kjdb/20160825.htm
-        icon: fas fa-link
-        description: ""
-      - name: 示波器基本原理之五：采集模式-CSDN博客
-        url: https://blog.csdn.net/weixin_30430169/article/details/100003264
-        icon: fas fa-link
-        description: ""
-      - name: Origin教程：数据导入，摆脱繁琐的复制粘贴。
-        url: https://mp.weixin.qq.com/s/uJIC_Vnro8xsf5Bd_RZoxw
-        icon: fas fa-link
-        description: ""
-      - name: 【科研必备软件】七张图学Origin系列（三）
-        url: https://mp.weixin.qq.com/s?__biz=MzUzMzQzNzEwNg==&amp;mid=2247486075&amp;idx=1&amp;sn=4882401f7dfc374fb70d515f76d59bf8&amp;chksm=faa545a6cdd2ccb08605a7369d7cce6d93f22f0e5538c9cf8fc308d06671a23fb99b802079ce&amp;scene=27
-        icon: fas fa-link
-        description: ""
-      - name: 第2讲：数据的导入、多彩曲线、标峰线性拟合
-        url: https://mp.weixin.qq.com/s?__biz=MzA3NDIxMTEyNA==&amp;mid=2257514183&amp;idx=1&amp;sn=3e39410175c80fd1f06c4497f1738a56&amp;chksm=9c79049cab0e8d8af96a08927d5d26995e7720ce65f6f8700cee2e09fcd6f4b2739e981a0251&amp;cur_album_id=2220061431146872833&amp;scene=189#wechat_redirect
-        icon: fas fa-link
-        description: ""
-      - name: Origin教程（六）| 自定义曲线峰值颜色+坐标轴加箭头
-        url: https://mp.weixin.qq.com/s?__biz=MjM5Nzk1NzMzNA==&amp;mid=2650048455&amp;idx=2&amp;sn=b1fd4a911e2f1b5e8a7240caa9b473aa&amp;chksm=bed23c7e89a5b568a520773f16016d8bd5cce0339efe964bae9b718a2481381b37f5a8b7d305&amp;scene=27
-        icon: fas fa-link
-        description: ""
-      - name: 【学术】Origin 在曲线图上添加各种标注的方法
-        url: https://mp.weixin.qq.com/s/MDDa-m7K8f_VKH8FRnxcPQ
-        icon: fas fa-link
-        description: ""
-      - name: 科研党福利：SCI发表必备的Origin小技巧
-        url: https://mp.weixin.qq.com/s/Ji4V0BYmLaRzJyEgX8MuvA
-        icon: fas fa-link
-        description: ""
-      - name: 任性自定义Origin配色与多条渐变曲线的绘制
-        url: https://mp.weixin.qq.com/s/XCUNjZAC9qctk4g7AUGzhg
-        icon: fas fa-link
-        description: ""
-      - name: 微信公众平台
-        url: https://mp.weixin.qq.com/s/pL_I08N0JocMfcoHfH7avw
-        icon: fas fa-link
-        description: ""
-      - name: Origin教程|如何按照自己意愿排布图例
-        url: https://mp.weixin.qq.com/s/_s19lZQbCAlGAmF4B9RsBg
-        icon: fas fa-link
-        description: ""
-      - name: 半分钟教程：一招搞定 Origin 图例的个性化设置
-        url: https://mp.weixin.qq.com/s?__biz=MzUxMDMzODg2Ng==&amp;mid=2247521864&amp;idx=4&amp;sn=4db68b315ade9da7767ea0745292b5ec&amp;chksm=f906a415ce712d0370d8f79836d6694b5263dde77b48e47f5901a99fb552d75584fc6fe8cf0b&amp;scene=27
-        icon: fas fa-link
-        description: ""
-      - name: 科研绘图 | Origin绘制局部细节放大图
-        url: https://mp.weixin.qq.com/s/uL1y8ZmZA-VWGmwcfxDrqw
-        icon: fas fa-link
-        description: ""
-      - name: （2141R21）Origin：局部放大图
-        url: https://mp.weixin.qq.com/s/CJA_j3e03PqWsTEl0WF4GA
-        icon: fas fa-link
-        description: ""
-      - name: 61 origin授控于MATLAB - 猪冰龙 - 博客园
-        url: https://www.cnblogs.com/zhubinglong/p/6900630.html
-        icon: fas fa-link
-        description: ""
-      - name: 数字信号处理|Matlab设计巴特沃斯低通滤波器（冲激响应不变法和双线性变换法）-CSDN博客
-        url: https://blog.csdn.net/zzztutu/article/details/128481733?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-128481733-blog-134621494.235^v43^pc_blog_bottom_relevance_base3&amp;spm=1001.2101.3001.4242.2&amp;utm_relevant_index=4
-        icon: fas fa-link
-        description: ""
-      - name: 经验模式分解（EMD）的MATLAB工具箱安装详解_matlab2019 emd 安装-CSDN博客
-        url: https://blog.csdn.net/weixin_43885654/article/details/102589413?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param
-        icon: fas fa-link
-        description: ""
-      - name: 经验模式分解（EMD）及希尔伯特-黄变换（HHT）简介及matlab实现_hht分析-CSDN博客
-        url: https://blog.csdn.net/weixin_42846157/article/details/104916700
-        icon: fas fa-link
-        description: ""
-      - name: Mathtype快捷键-CSDN博客
-        url: https://blog.csdn.net/weixin_44346182/article/details/128053940
-        icon: fas fa-link
-        description: ""
-      - name: 插入MathType公式行距变大的解决方法-MathType中文网
-        url: https://www.mathtype.cn/wenti/tiaozheng-hangju.html
-        icon: fas fa-link
-        description: ""
-      - name: Word技巧之Mathtype插入公式以及公式编号问题 - 知乎
-        url: https://zhuanlan.zhihu.com/p/473078485?utm_id=0
-        icon: fas fa-link
-        description: ""
-      - name: 这篇文章能让你明白经验模态分解（EMD）——基础理论篇 - 知乎
-        url: https://zhuanlan.zhihu.com/p/40005057
-        icon: fas fa-link
-        description: ""
-      - name: Matlab结合FDTD绘制电磁场强度图和电流矢量图
-        url: https://mp.weixin.qq.com/s/Iorh72CTAnEA51_E1oidGQ
-        icon: fas fa-link
-        description: ""
-      - name: 图像处理（MATLAB）| 图像增强、直方图算法、角点检测、减色处理、图像分割
-        url: https://mp.weixin.qq.com/s/llP07saEic1KXZcAwxA9aA
-        icon: fas fa-link
-        description: ""
-      - name: MATLAB hilbert谱 纵坐标由归一化频率改为正常频率的方法_matlab disp_hhs-CSDN博客
-        url: https://blog.csdn.net/weixin_36491450/article/details/84402785
-        icon: fas fa-link
-        description: ""
-      - name: 经验模式分解EMD与集合经验模态分解EEMD - Jerry_Jin - 博客园
-        url: https://www.cnblogs.com/jins-note/p/12868172.html
-        icon: fas fa-link
-        description: ""
-      - name: EMD经验模态分解_emd残差项-CSDN博客
-        url: https://blog.csdn.net/qq_47698599/article/details/125994827
-        icon: fas fa-link
-        description: ""
-      - name: Windows通过命令行强制关闭进程_windows停止进程命令-CSDN博客
-        url: https://blog.csdn.net/dlwlrma_516/article/details/126653602
-        icon: fas fa-link
-        description: ""
-      - name: 【MATLAB】字体美化和乱码_matlab 字体-CSDN博客
-        url: https://blog.csdn.net/ZHOU_YONG915/article/details/133432038?spm=1001.2101.3001.6650.4&amp;utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-4-133432038-blog-50383362.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-4-133432038-blog-50383362.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;utm_relevant_index=9
-        icon: fas fa-link
-        description: ""
-      - name: Matlab字体设置中找不到字体_matlab识别不到source code字体-CSDN博客
-        url: https://blog.csdn.net/WhoisPo/article/details/88282976
-        icon: fas fa-link
-        description: ""
-      - name: Word图片排版时的嵌入式与非嵌入式
-        url: https://www.zhihu.com/tardis/zm/art/35979312?source_id=1003
-        icon: fas fa-link
-        description: ""
-      - name: Lumerical 的 2.5D FDTD 传播方法
-        url: https://www.lumerical.com/learn/whitepapers/lumericals-2-5d-fdtd-propagation-method/
-        icon: fas fa-link
-        description: ""
-      - name: TriPleX 工艺平台-低损耗氮化硅光波导
-        url: https://mp.weixin.qq.com/s/U4dfgOeYXbZOZrEQSGIDTQ
-        icon: fas fa-link
-        description: ""
-      - name: Interconnect 中双总线微环谐振器中耦合效率问题
-        url: https://forum.ansys.com/forums/topic/interconnect-zhongshuangzongxianweihuanxiezhenqizhongouhexiaoluwenti/
-        icon: fas fa-link
-        description: ""
-      - name: 为什么设置FDTD仿真温度不同时，微环的谐振波长不发生漂移
-        url: https://forum.ansys.com/forums/topic/WeiShenMeSheZhiFDTDFangZhenWenDuBuTongShiWeiHuanDeXieZhenBoZhangBuFaShengPiaoYi/
-        icon: fas fa-link
-        description: ""
-      - name: 关于微环的耦合系数
-        url: https://forum.ansys.com/forums/topic/guanyuweihuandeouhexishu/
-        icon: fas fa-link
-        description: ""
-      - name: Metamaterial S parameter extraction – Ansys Optics
-        url: https://optics.ansys.com/hc/en-us/articles/360042095873-Metamaterial-S-parameter-extraction
-        icon: fas fa-link
-        description: ""
-      - name: 微环光源设置
-        url: https://forum.ansys.com/forums/topic/weihuanguangyuanshezhi/
-        icon: fas fa-link
-        description: ""
-      - name: FDE中的有效折射率和effective index monitor中的有效折射率区别
-        url: https://forum.ansys.com/forums/topic/fdezhongdeyouxiaozhesheluheeffective-index-monitorzhongdeyouxiaozhesheluqubie/
-        icon: fas fa-link
-        description: ""
-      - name: lumerical 填坑汇总（最近更新于2020年11月11日） - 知乎
-        url: https://zhuanlan.zhihu.com/p/285674247
-        icon: fas fa-link
-        description: ""
-      - name: "Ansys Insight: 几个简单实用的脚本Script命令：用于结果分析"
-        url: https://forum.ansys.com/forums/topic/ansys-insight-jigejiandanshiyongdejiaobenscriptminglingyongyujieguofenxi/
-        icon: fas fa-link
-        description: ""
-      - name: 硅基热光相移器 - 讯石光通讯网-做光通讯行业的充电站!
-        url: http://www.iccsz.com/site/cn/News/2018/11/23/20181123052504372094.htm
-        icon: fas fa-link
-        description: ""
-      - name: TriPleX 工艺平台-低损耗氮化硅光波导 - 知乎
-        url: https://zhuanlan.zhihu.com/p/647596918
-        icon: fas fa-link
-        description: ""
-      - name: 2 μm工作波长下氮化硅槽波导特性研究
-        url: https://www.hanspub.org/journal/PaperInformation?paperID=62575
-        icon: fas fa-link
-        description: ""
-      - name: Silicon Nitride Spot Size Converter With Very Low-Loss Over the C-Band | IEEE Journals &amp; Magazine | IEEE Xplore
-        url: https://ieeexplore.ieee.org/abstract/document/10239163
-        icon: fas fa-link
-        description: ""
-      - name: 请教关于“谐振系统FDTD时域仿真的问题”
-        url: https://forum.ansys.com/forums/topic/qingjiaoguanyuxiezhenxitongfdtdshiyufangzhendewenti/
-        icon: fas fa-link
-        description: ""
-      - name: Word怎么把图片放到指定位置 - 好用的网盘坚果云
-        url: https://content.jianguoyun.com/25406.html
-        icon: fas fa-link
-        description: ""
-      - name: 信息服务门户
-        url: http://my.seu.edu.cn/index.portal
-        icon: fas fa-link
-        description: ""
-      - name: 集成电路（IC）学院
-        url: https://ic.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 电子科学与工程学院
-        url: https://electronic.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 东南大学-Southeast University|主页
-        url: https://www.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 东南大学缴费平台
-        url: http://caiwuchu.seu.edu.cn/payment/pay/payment.jsp
-        icon: fas fa-link
-        description: ""
-      - name: 东南大学网络与信息中心
-        url: https://nic.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 学术交流与文体活动
-        url: http://ehall.seu.edu.cn/gsapp/sys/jzxxtjapp/*default/index.do?t_s=1635341856079&amp;amp_sec_version_=1&amp;gid_=MnBkM3NrV0V4R1diQXBpSzJiQ2xXWmowT2ZRU2c2U1NwUXZDbTRteWF5bnNUYmc1KzUreHRxdzVYSGZvZDdBQkVFL0pQdGRWelM5dU5mQlN3UGhLVFE9PQ&amp;EMAP_LANG=zh&amp;THEME=millennium#/hdyy
-        icon: fas fa-link
-        description: ""
-      - name: 研究生办事指南展示
-        url: http://ehall.seu.edu.cn/gsapp/sys/guideshow/*default/index.do?ID=20190806134434865&amp;t_s=1631350840122&amp;amp_sec_version_=1&amp;gid_=MnBkM3NrV0V4R1diQXBpSzJiQ2xXWmowT2ZRU2c2U1NwUXZDbTRteWF5bnNUYmc1KzUreHRxdzVYSGZvZDdBQkVFL0pQdGRWelM5dU5mQlN3UGhLVFE9PQ&amp;EMAP_LANG=zh&amp;THEME=millennium#/guide
-        icon: fas fa-link
-        description: ""
-      - name: 研究生选课
-        url: http://yjsxk.urp.seu.edu.cn/yjsxkapp/sys/xsxkapp/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 邮箱
-        url: http://mail.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: VPN服务简介-东南大学网络与信息中心
-        url: https://vpn.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 图书馆
-        url: http://lib.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 东南大学科研服务平台
-        url: https://esupport.seu.edu.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 波长可调直接调制硅基外腔激光器-专利-钛学术文献服务平台
-        url: https://doc.taixueshu.com/patent/CN110323665A.html
-        icon: fas fa-link
-        description: ""
-      - name: Anaconda, Python, Jupyter和PyCharm介绍_jupyter和python和pychorm-CSDN博客
-        url: https://blog.csdn.net/qq_38998213/article/details/132411374
         icon: fas fa-link
         description: ""
   - name: Genshin impact
@@ -1330,43 +886,771 @@ categories:
         url: https://meta.appinn.net/t/topic/383
         icon: fas fa-link
         description: ""
-  - name: video
+  - name: 专利
     icon: fas fa-folder
     sites:
-      - name: SOZMZ - 人人影视分级搜索
-        url: https://v.dsb.ink/#/
+      - name: 中国专利下载
+        url: https://www.drugfuture.com/cnpat/cn_patent.asp
         icon: fas fa-link
         description: ""
-      - name: 影迷导航网-YingMi123,影迷的专业导航(精简版)
-        url: http://www.yingmi123.com/
+      - name: Patent9专利在线-我的专利笔记
+        url: https://www.patent9.com/
         icon: fas fa-link
         description: ""
-      - name: 影视森林——观影第一站
-        url: http://www.549.tv/#
+      - name: 资源导航 - 东南大学图书馆
+        url: http://lib.seu.edu.cn/list.php?fid=451
         icon: fas fa-link
         description: ""
-      - name: 盘他-盘搜索
-        url: https://panother.com/
+      - name: 壹专利-专利查询_专利检索_专利分析_全球专利数据库_壹专利_广州奥凯信息咨询有限公司
+        url: https://www.patyee.com/search/quick
         icon: fas fa-link
         description: ""
-      - name: 电影电视剧资源网站 / APP | EdNovas 的小站
-        url: https://ednovas.xyz/2021/02/22/videos/#VIP%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%EF%BC%88-%E5%90%8E%E9%9D%A2%E6%94%BE%E4%B8%8A%E7%88%B1%E5%A5%87%E8%89%BA%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E7%AD%89%E8%A7%86%E9%A2%91%E5%9C%B0%E5%9D%80%EF%BC%89
+      - name: 东南大学-机构知识库 机构智库
+        url: http://58.192.117.79/Index.aspx
         icon: fas fa-link
         description: ""
-      - name: 美剧星球 —— 可能是手机上最好用的影视 APP | EdNovas 的小站
-        url: https://ednovas.xyz/2021/01/10/%E7%BE%8E%E5%89%A7%E6%98%9F%E7%90%83/#%E6%96%B0%E7%89%87%E9%80%9F%E5%BA%A6
+  - name: Zotero
+    icon: fas fa-folder
+    sites:
+      - name: 假期如何在家愉快地使用Zotero和知网数据 - 知乎
+        url: https://zhuanlan.zhihu.com/p/111857132
         icon: fas fa-link
         description: ""
-      - name: 毕方铺 - 网盘搜索神器，可以替代云盘精灵、虫部落、盘搜搜等工具。
-        url: https://www.iizhi.cn/
+      - name: ShareStuff
+        url: https://isharestuff.github.io/ShareStuff/Maps.html
+        icon: fab fa-github
+        description: ""
+      - name: 使用坚果云实现Zotero文件同步_zotero 坚果云-CSDN博客
+        url: https://blog.csdn.net/weixin_51397022/article/details/130529820
         icon: fas fa-link
         description: ""
-      - name: "|天天美剧|美剧鸟-美剧虾|美剧侠"
-        url: http://www.meijuxia.net/
+      - name: Zotero使用指南
+        url: https://zhuanlan.zhihu.com/p/622062237?utm_id=0
         icon: fas fa-link
         description: ""
-      - name: 一秒导航 - 免费看最新不卡VIP影视日韩泰剧动漫漫画美图网站！
-        url: https://www.1sdh.com/
+      - name: Zotero 中文小组 | Zotero 中文小组
+        url: https://zotero-chinese.com/
+        icon: fas fa-link
+        description: ""
+      - name: Zotero影响因子、期刊标签不显示最新解决教程 - 知乎
+        url: https://zhuanlan.zhihu.com/p/670327264
+        icon: fas fa-link
+        description: ""
+  - name: lumerical
+    icon: fas fa-folder
+    sites:
+      - name: FDTD和MODE中的PML边界
+        url: https://zhuanlan.zhihu.com/p/560832768?utm_id=0
+        icon: fas fa-link
+        description: ""
+      - name: mode功能介绍
+        url: https://mp.weixin.qq.com/s/vY26Q0yufQ9iVH-AJbACQA
+        icon: fas fa-link
+        description: ""
+      - name: EME solver
+        url: https://blog.csdn.net/XHyoungTiger/article/details/124386104?spm=1001.2101.3001.6650.6&amp;utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-6-124386104-blog-134879056.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-6-124386104-blog-134879056.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;utm_relevant_index=8
+        icon: fas fa-link
+        description: ""
+      - name: Mode 的电场分布数据导出到 Matlab 进行处理
+        url: https://blog.csdn.net/qq_36492724/article/details/129854232?spm=1001.2101.3001.6650.15&amp;utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-15-129854232-blog-127056060.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-15-129854232-blog-127056060.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;utm_relevant_index=21
+        icon: fas fa-link
+        description: ""
+      - name: 硅光设计-CSDN博客
+        url: https://pic-design.blog.csdn.net/?type=blog
+        icon: fas fa-link
+        description: ""
+      - name: FDTD快速入门之Lumerical脚本语言Pickup（一）序言_lumerical script教程-CSDN博客
+        url: https://blog.csdn.net/weixin_44224652/article/details/112677982
+        icon: fas fa-link
+        description: ""
+      - name: 【软件目录】
+        url: https://mp.weixin.qq.com/s/LHcB77AM6SND0jbR2Pl7Ag
+        icon: fas fa-link
+        description: ""
+      - name: lumerical solutions 脚本代码 微环腔 贝塞尔曲线 研究步骤_lumerical脚本教程-CSDN博客
+        url: https://blog.csdn.net/x1131230123/article/details/100537193
+        icon: fas fa-link
+        description: ""
+      - name: Lumerical使用经验（group structure, script, bezier bend） - 知乎
+        url: https://zhuanlan.zhihu.com/p/570268973
+        icon: fas fa-link
+        description: ""
+      - name: Lumerical使用经验7 (Matlab控制Lumerical) - 知乎
+        url: https://zhuanlan.zhihu.com/p/678425334
+        icon: fas fa-link
+        description: ""
+      - name: lumerical FDTD、MODE自学日记_fdtd模拟受激辐射激光器-CSDN博客
+        url: https://blog.csdn.net/weixin_43413070/article/details/126698924
+        icon: fas fa-link
+        description: ""
+      - name: ANSYS Lumerical 2023 R1破解版（附带详细安装教程）
+        url: https://www.ittel.cn/archives/13085.html
+        icon: fas fa-link
+        description: ""
+      - name: 光子学
+        url: https://v.ansys.com.cn/channel/252
+        icon: fas fa-link
+        description: ""
+      - name: (51条消息) Lumerical官方案例、FDTD时域有限差分法仿真学习（三）——环形谐振器(Ring resonator)之第一部分_子非鱼icon的博客-CSDN博客
+        url: https://blog.csdn.net/weixin_45719141/article/details/123286653
+        icon: fas fa-link
+        description: ""
+      - name: 一种连续线性调频激光光源的制作方法
+        url: https://www.xjishu.com/zhuanli/59/201710864805.html
+        icon: fas fa-link
+        description: ""
+      - name: FDTD product reference manual – Ansys Optics
+        url: https://optics.ansys.com/hc/en-us/articles/360033154434
+        icon: fas fa-link
+        description: ""
+      - name: 光子積體電路(PIC)模擬最佳利器 Ansys Lumerical - Comprehensive PIC Design Solutions | Drupal
+        url: https://www.macnica.com.tw/node/386
+        icon: fas fa-link
+        description: ""
+      - name: FDTD仿真反射率_sunfove的博客-CSDN博客_fdtd反射率大于1
+        url: https://blog.csdn.net/sunfove/article/details/120635794
+        icon: fas fa-link
+        description: ""
+  - name: 论文
+    icon: fas fa-folder
+    sites:
+      - name: 干货：FMCW雷达系统信号处理建模与仿真（含MATLAB代码）_51CTO博客_雷达信号仿真 matlab
+        url: https://blog.51cto.com/u_12413309/6255997
+        icon: fas fa-link
+        description: ""
+      - name: FMCW激光雷达-CSDN博客
+        url: https://blog.csdn.net/qq_40624256/article/details/108897013
+        icon: fas fa-link
+        description: ""
+      - name: 用于FMCW LIDAR的的高功率DBR激光器_上海交大用于激光雷达fmcw的可调谐窄线宽激光器的设计-CSDN博客
+        url: https://blog.csdn.net/qq_40624256/article/details/125114232?spm=1001.2014.3001.5502
+        icon: fas fa-link
+        description: ""
+      - name: 模斑转换器SSC-CSDN博客
+        url: https://blog.csdn.net/qq_40624256/article/details/131828091?spm=1001.2014.3001.5502
+        icon: fas fa-link
+        description: ""
+      - name: 干货：FMCW雷达系统信号处理建模与仿真（含matlab代码） - 知乎
+        url: https://zhuanlan.zhihu.com/p/508764579
+        icon: fas fa-link
+        description: ""
+      - name: Ansys Lumerical MODE光波导设计软件_光学软件_软件及服务_供应信息_光电行业门户
+        url: https://b2b.csoe.org.cn/sell/show-158.html
+        icon: fas fa-link
+        description: ""
+      - name: 关于中国用户访问Lumerical官网和帐号注册的补充说明
+        url: https://forum.ansys.com/forums/topic/guanyuzhongguoyonghufangwenlumericalguanwanghezhanghaozhucedebuchongshuoming/
+        icon: fas fa-link
+        description: ""
+      - name: Lumerical边界条件(Metal &amp; PML) - 知乎
+        url: https://zhuanlan.zhihu.com/p/647137255
+        icon: fas fa-link
+        description: ""
+      - name: 毕业论文-论文公式编辑与公式编号 - 知乎
+        url: https://zhuanlan.zhihu.com/p/129896954
+        icon: fas fa-link
+        description: ""
+      - name: 论文写作的必备的公式操作
+        url: https://mp.weixin.qq.com/s?__biz=MjM5ODc2Mzk2MA==&amp;mid=2451750989&amp;idx=1&amp;sn=80da1a3a8bfa86979706bfe7528458dc&amp;chksm=b113ac9a8664258c97cdfa058006458c1b5a5b2c9f7243a5b39e20251587cf0863eb9e3685cb&amp;scene=27
+        icon: fas fa-link
+        description: ""
+      - name: 制图与软件技巧分享36期：论文公式排版小技巧
+        url: https://mp.weixin.qq.com/s/xRQ2vFwhi9oVYu5F-RBUvA
+        icon: fas fa-link
+        description: ""
+      - name: 调频连续波（FMCW）波形设计、真实道路场景仿真及汽车自适应巡航控制信号处理（Matlab代码实现）-阿里云开发者社区
+        url: https://developer.aliyun.com/article/1298003
+        icon: fas fa-link
+        description: ""
+      - name: 在matlab中去除直流分量的方法_处理直流分量-CSDN博客
+        url: https://blog.csdn.net/qinghuanduji/article/details/114698089
+        icon: fas fa-link
+        description: ""
+      - name: 信号生成和可视化 - MATLAB &amp; Simulink Example - MathWorks 中国
+        url: https://ww2.mathworks.cn/help/signal/ug/signal-generation-and-visualization.html
+        icon: fas fa-link
+        description: ""
+      - name: simulink中求解器设置为离散，固定步长所带来的影响_求解器步长-CSDN博客
+        url: https://blog.csdn.net/qq_39529052/article/details/109291578
+        icon: fas fa-link
+        description: ""
+      - name: Simulink常用快捷键(仿真开始/查看simple time)_simulink停止快捷键-CSDN博客
+        url: https://blog.csdn.net/xingmeng416/article/details/105953845/
+        icon: fas fa-link
+        description: ""
+      - name: 激光器的工作原理、激光技术的基本原理
+        url: https://www.troteclaser.com/zh/learn-support/faqs/how-does-a-laser-work
+        icon: fas fa-link
+        description: ""
+      - name: "爱因斯坦在1916: 从引力波到量子电磁辐射理论"
+        url: http://html.rhhz.net/kjdb/20160825.htm
+        icon: fas fa-link
+        description: ""
+      - name: 示波器基本原理之五：采集模式-CSDN博客
+        url: https://blog.csdn.net/weixin_30430169/article/details/100003264
+        icon: fas fa-link
+        description: ""
+      - name: Origin教程：数据导入，摆脱繁琐的复制粘贴。
+        url: https://mp.weixin.qq.com/s/uJIC_Vnro8xsf5Bd_RZoxw
+        icon: fas fa-link
+        description: ""
+      - name: 【科研必备软件】七张图学Origin系列（三）
+        url: https://mp.weixin.qq.com/s?__biz=MzUzMzQzNzEwNg==&amp;mid=2247486075&amp;idx=1&amp;sn=4882401f7dfc374fb70d515f76d59bf8&amp;chksm=faa545a6cdd2ccb08605a7369d7cce6d93f22f0e5538c9cf8fc308d06671a23fb99b802079ce&amp;scene=27
+        icon: fas fa-link
+        description: ""
+      - name: 第2讲：数据的导入、多彩曲线、标峰线性拟合
+        url: https://mp.weixin.qq.com/s?__biz=MzA3NDIxMTEyNA==&amp;mid=2257514183&amp;idx=1&amp;sn=3e39410175c80fd1f06c4497f1738a56&amp;chksm=9c79049cab0e8d8af96a08927d5d26995e7720ce65f6f8700cee2e09fcd6f4b2739e981a0251&amp;cur_album_id=2220061431146872833&amp;scene=189#wechat_redirect
+        icon: fas fa-link
+        description: ""
+      - name: Origin教程（六）| 自定义曲线峰值颜色+坐标轴加箭头
+        url: https://mp.weixin.qq.com/s?__biz=MjM5Nzk1NzMzNA==&amp;mid=2650048455&amp;idx=2&amp;sn=b1fd4a911e2f1b5e8a7240caa9b473aa&amp;chksm=bed23c7e89a5b568a520773f16016d8bd5cce0339efe964bae9b718a2481381b37f5a8b7d305&amp;scene=27
+        icon: fas fa-link
+        description: ""
+      - name: 【学术】Origin 在曲线图上添加各种标注的方法
+        url: https://mp.weixin.qq.com/s/MDDa-m7K8f_VKH8FRnxcPQ
+        icon: fas fa-link
+        description: ""
+      - name: 科研党福利：SCI发表必备的Origin小技巧
+        url: https://mp.weixin.qq.com/s/Ji4V0BYmLaRzJyEgX8MuvA
+        icon: fas fa-link
+        description: ""
+      - name: 任性自定义Origin配色与多条渐变曲线的绘制
+        url: https://mp.weixin.qq.com/s/XCUNjZAC9qctk4g7AUGzhg
+        icon: fas fa-link
+        description: ""
+      - name: 微信公众平台
+        url: https://mp.weixin.qq.com/s/pL_I08N0JocMfcoHfH7avw
+        icon: fas fa-link
+        description: ""
+      - name: Origin教程|如何按照自己意愿排布图例
+        url: https://mp.weixin.qq.com/s/_s19lZQbCAlGAmF4B9RsBg
+        icon: fas fa-link
+        description: ""
+      - name: 半分钟教程：一招搞定 Origin 图例的个性化设置
+        url: https://mp.weixin.qq.com/s?__biz=MzUxMDMzODg2Ng==&amp;mid=2247521864&amp;idx=4&amp;sn=4db68b315ade9da7767ea0745292b5ec&amp;chksm=f906a415ce712d0370d8f79836d6694b5263dde77b48e47f5901a99fb552d75584fc6fe8cf0b&amp;scene=27
+        icon: fas fa-link
+        description: ""
+      - name: 科研绘图 | Origin绘制局部细节放大图
+        url: https://mp.weixin.qq.com/s/uL1y8ZmZA-VWGmwcfxDrqw
+        icon: fas fa-link
+        description: ""
+      - name: （2141R21）Origin：局部放大图
+        url: https://mp.weixin.qq.com/s/CJA_j3e03PqWsTEl0WF4GA
+        icon: fas fa-link
+        description: ""
+      - name: 61 origin授控于MATLAB - 猪冰龙 - 博客园
+        url: https://www.cnblogs.com/zhubinglong/p/6900630.html
+        icon: fas fa-link
+        description: ""
+      - name: 数字信号处理|Matlab设计巴特沃斯低通滤波器（冲激响应不变法和双线性变换法）-CSDN博客
+        url: https://blog.csdn.net/zzztutu/article/details/128481733?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-128481733-blog-134621494.235^v43^pc_blog_bottom_relevance_base3&amp;spm=1001.2101.3001.4242.2&amp;utm_relevant_index=4
+        icon: fas fa-link
+        description: ""
+      - name: 经验模式分解（EMD）的MATLAB工具箱安装详解_matlab2019 emd 安装-CSDN博客
+        url: https://blog.csdn.net/weixin_43885654/article/details/102589413?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param
+        icon: fas fa-link
+        description: ""
+      - name: 经验模式分解（EMD）及希尔伯特-黄变换（HHT）简介及matlab实现_hht分析-CSDN博客
+        url: https://blog.csdn.net/weixin_42846157/article/details/104916700
+        icon: fas fa-link
+        description: ""
+      - name: Mathtype快捷键-CSDN博客
+        url: https://blog.csdn.net/weixin_44346182/article/details/128053940
+        icon: fas fa-link
+        description: ""
+      - name: 插入MathType公式行距变大的解决方法-MathType中文网
+        url: https://www.mathtype.cn/wenti/tiaozheng-hangju.html
+        icon: fas fa-link
+        description: ""
+      - name: Word技巧之Mathtype插入公式以及公式编号问题 - 知乎
+        url: https://zhuanlan.zhihu.com/p/473078485?utm_id=0
+        icon: fas fa-link
+        description: ""
+      - name: 这篇文章能让你明白经验模态分解（EMD）——基础理论篇 - 知乎
+        url: https://zhuanlan.zhihu.com/p/40005057
+        icon: fas fa-link
+        description: ""
+      - name: Matlab结合FDTD绘制电磁场强度图和电流矢量图
+        url: https://mp.weixin.qq.com/s/Iorh72CTAnEA51_E1oidGQ
+        icon: fas fa-link
+        description: ""
+      - name: 图像处理（MATLAB）| 图像增强、直方图算法、角点检测、减色处理、图像分割
+        url: https://mp.weixin.qq.com/s/llP07saEic1KXZcAwxA9aA
+        icon: fas fa-link
+        description: ""
+      - name: MATLAB hilbert谱 纵坐标由归一化频率改为正常频率的方法_matlab disp_hhs-CSDN博客
+        url: https://blog.csdn.net/weixin_36491450/article/details/84402785
+        icon: fas fa-link
+        description: ""
+      - name: 经验模式分解EMD与集合经验模态分解EEMD - Jerry_Jin - 博客园
+        url: https://www.cnblogs.com/jins-note/p/12868172.html
+        icon: fas fa-link
+        description: ""
+      - name: EMD经验模态分解_emd残差项-CSDN博客
+        url: https://blog.csdn.net/qq_47698599/article/details/125994827
+        icon: fas fa-link
+        description: ""
+      - name: Windows通过命令行强制关闭进程_windows停止进程命令-CSDN博客
+        url: https://blog.csdn.net/dlwlrma_516/article/details/126653602
+        icon: fas fa-link
+        description: ""
+      - name: 【MATLAB】字体美化和乱码_matlab 字体-CSDN博客
+        url: https://blog.csdn.net/ZHOU_YONG915/article/details/133432038?spm=1001.2101.3001.6650.4&amp;utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-4-133432038-blog-50383362.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-4-133432038-blog-50383362.235%5Ev43%5Epc_blog_bottom_relevance_base3&amp;utm_relevant_index=9
+        icon: fas fa-link
+        description: ""
+      - name: Matlab字体设置中找不到字体_matlab识别不到source code字体-CSDN博客
+        url: https://blog.csdn.net/WhoisPo/article/details/88282976
+        icon: fas fa-link
+        description: ""
+      - name: Word图片排版时的嵌入式与非嵌入式
+        url: https://www.zhihu.com/tardis/zm/art/35979312?source_id=1003
+        icon: fas fa-link
+        description: ""
+      - name: Lumerical 的 2.5D FDTD 传播方法
+        url: https://www.lumerical.com/learn/whitepapers/lumericals-2-5d-fdtd-propagation-method/
+        icon: fas fa-link
+        description: ""
+      - name: TriPleX 工艺平台-低损耗氮化硅光波导
+        url: https://mp.weixin.qq.com/s/U4dfgOeYXbZOZrEQSGIDTQ
+        icon: fas fa-link
+        description: ""
+      - name: Interconnect 中双总线微环谐振器中耦合效率问题
+        url: https://forum.ansys.com/forums/topic/interconnect-zhongshuangzongxianweihuanxiezhenqizhongouhexiaoluwenti/
+        icon: fas fa-link
+        description: ""
+      - name: 为什么设置FDTD仿真温度不同时，微环的谐振波长不发生漂移
+        url: https://forum.ansys.com/forums/topic/WeiShenMeSheZhiFDTDFangZhenWenDuBuTongShiWeiHuanDeXieZhenBoZhangBuFaShengPiaoYi/
+        icon: fas fa-link
+        description: ""
+      - name: 关于微环的耦合系数
+        url: https://forum.ansys.com/forums/topic/guanyuweihuandeouhexishu/
+        icon: fas fa-link
+        description: ""
+      - name: Metamaterial S parameter extraction – Ansys Optics
+        url: https://optics.ansys.com/hc/en-us/articles/360042095873-Metamaterial-S-parameter-extraction
+        icon: fas fa-link
+        description: ""
+      - name: 微环光源设置
+        url: https://forum.ansys.com/forums/topic/weihuanguangyuanshezhi/
+        icon: fas fa-link
+        description: ""
+      - name: FDE中的有效折射率和effective index monitor中的有效折射率区别
+        url: https://forum.ansys.com/forums/topic/fdezhongdeyouxiaozhesheluheeffective-index-monitorzhongdeyouxiaozhesheluqubie/
+        icon: fas fa-link
+        description: ""
+      - name: lumerical 填坑汇总（最近更新于2020年11月11日） - 知乎
+        url: https://zhuanlan.zhihu.com/p/285674247
+        icon: fas fa-link
+        description: ""
+      - name: "Ansys Insight: 几个简单实用的脚本Script命令：用于结果分析"
+        url: https://forum.ansys.com/forums/topic/ansys-insight-jigejiandanshiyongdejiaobenscriptminglingyongyujieguofenxi/
+        icon: fas fa-link
+        description: ""
+      - name: 硅基热光相移器 - 讯石光通讯网-做光通讯行业的充电站!
+        url: http://www.iccsz.com/site/cn/News/2018/11/23/20181123052504372094.htm
+        icon: fas fa-link
+        description: ""
+      - name: TriPleX 工艺平台-低损耗氮化硅光波导 - 知乎
+        url: https://zhuanlan.zhihu.com/p/647596918
+        icon: fas fa-link
+        description: ""
+      - name: 2 μm工作波长下氮化硅槽波导特性研究
+        url: https://www.hanspub.org/journal/PaperInformation?paperID=62575
+        icon: fas fa-link
+        description: ""
+      - name: Silicon Nitride Spot Size Converter With Very Low-Loss Over the C-Band | IEEE Journals &amp; Magazine | IEEE Xplore
+        url: https://ieeexplore.ieee.org/abstract/document/10239163
+        icon: fas fa-link
+        description: ""
+      - name: 请教关于“谐振系统FDTD时域仿真的问题”
+        url: https://forum.ansys.com/forums/topic/qingjiaoguanyuxiezhenxitongfdtdshiyufangzhendewenti/
+        icon: fas fa-link
+        description: ""
+      - name: Word怎么把图片放到指定位置 - 好用的网盘坚果云
+        url: https://content.jianguoyun.com/25406.html
+        icon: fas fa-link
+        description: ""
+      - name: 信息服务门户
+        url: http://my.seu.edu.cn/index.portal
+        icon: fas fa-link
+        description: ""
+      - name: 集成电路（IC）学院
+        url: https://ic.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 电子科学与工程学院
+        url: https://electronic.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 东南大学-Southeast University|主页
+        url: https://www.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 东南大学缴费平台
+        url: http://caiwuchu.seu.edu.cn/payment/pay/payment.jsp
+        icon: fas fa-link
+        description: ""
+      - name: 东南大学网络与信息中心
+        url: https://nic.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 学术交流与文体活动
+        url: http://ehall.seu.edu.cn/gsapp/sys/jzxxtjapp/*default/index.do?t_s=1635341856079&amp;amp_sec_version_=1&amp;gid_=MnBkM3NrV0V4R1diQXBpSzJiQ2xXWmowT2ZRU2c2U1NwUXZDbTRteWF5bnNUYmc1KzUreHRxdzVYSGZvZDdBQkVFL0pQdGRWelM5dU5mQlN3UGhLVFE9PQ&amp;EMAP_LANG=zh&amp;THEME=millennium#/hdyy
+        icon: fas fa-link
+        description: ""
+      - name: 研究生办事指南展示
+        url: http://ehall.seu.edu.cn/gsapp/sys/guideshow/*default/index.do?ID=20190806134434865&amp;t_s=1631350840122&amp;amp_sec_version_=1&amp;gid_=MnBkM3NrV0V4R1diQXBpSzJiQ2xXWmowT2ZRU2c2U1NwUXZDbTRteWF5bnNUYmc1KzUreHRxdzVYSGZvZDdBQkVFL0pQdGRWelM5dU5mQlN3UGhLVFE9PQ&amp;EMAP_LANG=zh&amp;THEME=millennium#/guide
+        icon: fas fa-link
+        description: ""
+      - name: 研究生选课
+        url: http://yjsxk.urp.seu.edu.cn/yjsxkapp/sys/xsxkapp/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 邮箱
+        url: http://mail.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: VPN服务简介-东南大学网络与信息中心
+        url: https://vpn.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 图书馆
+        url: http://lib.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 东南大学科研服务平台
+        url: https://esupport.seu.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 波长可调直接调制硅基外腔激光器-专利-钛学术文献服务平台
+        url: https://doc.taixueshu.com/patent/CN110323665A.html
+        icon: fas fa-link
+        description: ""
+      - name: Anaconda, Python, Jupyter和PyCharm介绍_jupyter和python和pychorm-CSDN博客
+        url: https://blog.csdn.net/qq_38998213/article/details/132411374
+        icon: fas fa-link
+        description: ""
+  - name: 云
+    icon: fas fa-folder
+    sites:
+      - name: Office365使用
+        url: https://nic.seu.edu.cn/info/1069/1459.htm
+        icon: fas fa-link
+        description: ""
+      - name: Office 365
+        url: https://o365.seu.edu.cn/Home/o365
+        icon: fas fa-link
+        description: ""
+      - name: 如何让微软Onedrive同步其他硬盘的文件_onedrive如何增加文件夹-CSDN博客
+        url: https://blog.csdn.net/weixin_39802884/article/details/125130357
+        icon: fas fa-link
+        description: ""
+      - name: 让OneDrive同步电脑中任意指定文件夹：mklink命令_服务软件_什么值得买
+        url: https://post.smzdm.com/p/a5xmo24l/
+        icon: fas fa-link
+        description: ""
+  - name: ISP
+    icon: fas fa-folder
+    sites:
+      - name: UVM Environment for Image Signal Processing
+        url: https://sistenix.com/isp_uvm.html
+        icon: fas fa-link
+        description: ""
+  - name: github
+    icon: fas fa-folder
+    sites:
+      - name: "【GitHub】SSL certificate problem: unable to get local issuer certificate 的一种解决方案-CSDN博客"
+        url: https://blog.csdn.net/qq_42531954/article/details/131928288
+        icon: fas fa-link
+        description: ""
+      - name: 辣椒の酱
+        url: https://dogzi.fun/
+        icon: fas fa-link
+        description: ""
+      - name: "adisaktijrs/hexo-theme-minima: A lightweight dark/light theme for Hexo.js"
+        url: https://github.com/adisaktijrs/hexo-theme-minima
+        icon: fab fa-github
+        description: ""
+      - name: "HiNinoJay/hexo-theme-A4: A hexo theme that looks like an A4 paper."
+        url: https://github.com/HiNinoJay/hexo-theme-A4
+        icon: fab fa-github
+        description: ""
+      - name: "tufu9441/maupassant-hexo: A simple Hexo theme forked from icylogic."
+        url: https://github.com/tufu9441/maupassant-hexo
+        icon: fab fa-github
+        description: ""
+      - name: "wzpan/hexo-theme-wixo: A wiki theme for Hexo."
+        url: https://github.com/wzpan/hexo-theme-wixo
+        icon: fab fa-github
+        description: ""
+      - name: "next-theme/hexo-theme-next: 🎉 Elegant and powerful theme for Hexo."
+        url: https://github.com/next-theme/hexo-theme-next
+        icon: fab fa-github
+        description: ""
+      - name: "yelog/hexo-theme-3-hexo: hexo主题：三段式设计、极简、方便 Hexo theme: three-stage design"
+        url: https://github.com/yelog/hexo-theme-3-hexo
+        icon: fab fa-github
+        description: ""
+      - name: "zthxxx/hexo-theme-Wikitten: A theme of Hexo for personal wiki which seems like Wikitten style."
+        url: https://github.com/zthxxx/hexo-theme-Wikitten
+        icon: fab fa-github
+        description: ""
+      - name: "giscafer/hexo-theme-cafe: 精简的Hexo博客主题，样式风格如阮一峰老师博客"
+        url: https://github.com/giscafer/hexo-theme-cafe
+        icon: fab fa-github
+        description: ""
+      - name: "ppoffice/hexo-theme-icarus: A simple, delicate, and modern theme for the static site generator Hexo."
+        url: https://github.com/ppoffice/hexo-theme-icarus
+        icon: fab fa-github
+        description: ""
+      - name: "每天一个linux命令（51）: wc | 叶落阁"
+        url: http://yelog.org/2017/01/19/linux-command-51-wc/
+        icon: fas fa-link
+        description: ""
+      - name: 辣椒の酱
+        url: https://removeif.github.io/
+        icon: fab fa-github
+        description: ""
+      - name: 博客图片上传picgo工具github图传使用 - 辣椒の酱
+        url: https://removeif.github.io/theme/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0picgo%E5%B7%A5%E5%85%B7github%E5%9B%BE%E4%BC%A0%E4%BD%BF%E7%94%A8.html
+        icon: fab fa-github
+        description: ""
+      - name: 基于Hexo在GitHub Pages上搭建博客的方法_hexo github pages-CSDN博客
+        url: https://blog.csdn.net/CsdnAKinKo/article/details/136141768
+        icon: fas fa-link
+        description: ""
+      - name: 常用软件清单 | 夜晚将会美丽、
+        url: https://night-zhang.github.io/2019/08/27/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E8%AE%B0%E5%BD%95/
+        icon: fab fa-github
+        description: ""
+      - name: windows环境下使用hexo搭建blog平台 | 叶落阁
+        url: http://yelog.org/2017/03/17/windows-hexo/
+        icon: fas fa-link
+        description: ""
+      - name: Git学习笔记 | 个人学习心得体会
+        url: https://wallleap.cn/2020/07/04/Git/
+        icon: fas fa-link
+        description: ""
+      - name: Mac使用Hexo和GitHub搭建博客(3)--发布文章 | 个人学习心得体会
+        url: https://wallleap.cn/2019/08/25/mac-blog3/
+        icon: fas fa-link
+        description: ""
+      - name: 叶落阁
+        url: https://yelog.org/
+        icon: fas fa-link
+        description: ""
+  - name: zsh
+    icon: fas fa-folder
+    sites:
+      - name: zsh 安装与配置，使用 oh-my-zsh 美化终端 | Leehow的小站
+        url: https://www.haoyep.com/posts/zsh-config-oh-my-zsh/
+        icon: fas fa-link
+        description: ""
+      - name: 【zsh使用技巧】Linux shell美化，ohmyzsh安装+Xshell美化，体验Mac命令行 - 云牧青 - 博客园
+        url: https://www.cnblogs.com/yunmuq/p/15817431.html
+        icon: fas fa-link
+        description: ""
+  - name: LinuxApp
+    icon: fas fa-folder
+    sites:
+      - name: 在 Rocky Linux 8 &amp; 9 中启用 EPEL、REMI、RPM Fusion 仓库 – Rocky Linux
+        url: https://www.rockylinux.cn/notes/zai-rocky-linux-9-shang-qi-yong-epel-he-remi-cang-ku.html
+        icon: fas fa-link
+        description: ""
+      - name: 分享Rocky Linux和AlmaLinux系统安装XFCE桌面环境的简单方法-惠主机
+        url: https://www.idccoupon.com/7641.html
+        icon: fas fa-link
+        description: ""
+      - name: Emacs 入门指南：Why &amp; How | 刘家财的个人网站
+        url: https://liujiacai.net/blog/2020/11/25/why-emacs/
+        icon: fas fa-link
+        description: ""
+  - name: game
+    icon: fas fa-folder
+    sites:
+      - name: 3DMGAME论坛
+        url: https://bbs.3dmgame.com/home.php?mod=spacecp&amp;ac=plugin&amp;id=qqconnect:spacecp
+        icon: fas fa-link
+        description: ""
+      - name: 可在线预览25年4月3日更新5
+        url: https://docs.qq.com/sheet/DQlJXbHhTR2ZhZXpm?appid=101520907&amp;od_appid=101520907&amp;client=101520907&amp;tab=BB08J2
+        icon: fas fa-link
+        description: ""
+  - name: note
+    icon: fas fa-folder
+    sites:
+      - name: PKMer_如何使用 Obsidian 笔记：一步一步的指南
+        url: https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8obsidian%E7%AC%94%E8%AE%B0-%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E7%9A%84%E6%8C%87%E5%8D%97/
+        icon: fas fa-link
+        description: ""
+      - name: DeepSeek小白成长手册合集 - 飞书云文档
+        url: https://xuqiwei1986.feishu.cn/wiki/Xqhew46CMiXD1AkJOURcvMDSnih
+        icon: fas fa-link
+        description: ""
+  - name: moyu
+    icon: fas fa-folder
+    sites:
+      - name: 抓鱼鸭 - 是一个有趣的新标签页
+        url: https://www.zhuayuya.com/
+        icon: fas fa-link
+        description: ""
+      - name: "[2025/05/16更新][开源] MeNav - 个人导航站 | 自动化构建 | 支持书签导入 | 求star🙏 - 开发调优 - LINUX DO"
+        url: https://linux.do/t/topic/614493
+        icon: fas fa-link
+        description: ""
+      - name: 我的导航
+        url: https://vliamzh.github.io/menav/#
+        icon: fab fa-github
+        description: ""
+  - name: daohang
+    icon: fas fa-folder
+    sites:
+      - name: 笔点 - 用心做最简洁的网址导航_首页
+        url: https://www.bidianer.com/#/
+        icon: fas fa-link
+        description: ""
+      - name: 炫猿
+        url: https://xydh.fun/
+        icon: fas fa-link
+        description: ""
+      - name: 福利吧导航 | 发现更大的世界
+        url: https://fuliba123.com/
+        icon: fas fa-link
+        description: ""
+      - name: 果汁排行榜 - 各类榜单排名大全
+        url: http://guozhivip.com/rank/
+        icon: fas fa-link
+        description: ""
+      - name: 爱达杂货铺 | 收集那些有用的东西|爱达导航
+        url: https://adzhp.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 聚点 - 基于关键词的新闻订阅
+        url: https://www.judian.com.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 果汁实验室 - 发现国内外优质网站
+        url: http://guozhivip.com/lab/
+        icon: fas fa-link
+        description: ""
+      - name: 虫部落-让搜索更简单！
+        url: https://www.chongbuluo.com/
+        icon: fas fa-link
+        description: ""
+      - name: NO404 - 让天下不再有消失的网站！
+        url: https://www.no404.me/
+        icon: fas fa-link
+        description: ""
+      - name: 聚奇异学习导航 | 一个收集学习网站的地方！
+        url: http://ju71.com/
+        icon: fas fa-link
+        description: ""
+      - name: 老司机导航 - 来不及了！
+        url: http://www.giffox.com/
+        icon: fas fa-link
+        description: ""
+      - name: 快导航网 | 站在前方,为你导航
+        url: https://www.hifast.cn/#term-12
+        icon: fas fa-link
+        description: ""
+      - name: 学术网址大全--国外免费论文|国内期刊发表|论文网站导航|文献翻译大全
+        url: https://www.ulunwen.com/tools/xueshu.php
+        icon: fas fa-link
+        description: ""
+      - name: 便查主页
+        url: https://www.52blc.com/
+        icon: fas fa-link
+        description: ""
+      - name: 政府_政府部门_政府机构_国家机关_卫生部_教育部_2345网址导航-2345.com
+        url: http://www.2345.com/inner/gov.htm
+        icon: fas fa-link
+        description: ""
+      - name: 龙轩导航-做个有用的导航
+        url: http://ilxdh.com/
+        icon: fas fa-link
+        description: ""
+      - name: 效率集-自定义网址导航,多重搜索
+        url: http://www.xiaolvji.com/
+        icon: fas fa-link
+        description: ""
+      - name: Byr.wiki·北邮人导航
+        url: http://byr.wiki/
+        icon: fas fa-link
+        description: ""
+      - name: 24k导航 | 专注全网优质网址、优质资源分享。
+        url: https://www.24kdh.com/?cate=26#
+        icon: fas fa-link
+        description: ""
+      - name: 某柠檬_柠檬味的导航
+        url: https://www.moulem.com/?h08z
+        icon: fas fa-link
+        description: ""
+      - name: 柴都导航 – 汇集全网优质网址及资源
+        url: https://www.chaidu.com/
+        icon: fas fa-link
+        description: ""
+      - name: Google学术,SCI-HUB网址,-文献下载导航
+        url: http://489.org/
+        icon: fas fa-link
+        description: ""
+      - name: 谷歌学术_Google学术搜索-科研干货导航
+        url: http://www.9312.net/
+        icon: fas fa-link
+        description: ""
+      - name: Mirror List学术搜索
+        url: https://www.library.ac.cn/
+        icon: fas fa-link
+        description: ""
+      - name: Google学术搜索|SCI-HUB网址|谷歌学术搜索|龙猫学术导航
+        url: http://www.6453.net/
+        icon: fas fa-link
+        description: ""
+      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
+        url: https://www.ak47s.cn/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 西瓜导航 | 收藏你喜欢的网站！
+        url: https://nav.hzwdd.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 醉长生 - 有资源的网址导航
+        url: https://www.3zcs.com/
+        icon: fas fa-link
+        description: ""
+      - name: 恰鹿后花园 - 恰鹿导航后花园分享一切
+        url: https://hou.qialu999.com/
+        icon: fas fa-link
+        description: ""
+      - name: 龙喵网 - 有态度的网址导航
+        url: https://ailongmiao.com/
+        icon: fas fa-link
+        description: ""
+      - name: 国外网址导航_国外网站大全_116呀
+        url: http://www.116ya.com/
+        icon: fas fa-link
+        description: ""
+      - name: GuideBook-让工作学习生活更高效！
+        url: https://www.guidebook.top/
+        icon: fas fa-link
+        description: ""
+      - name: 优质导航网站收录
+        url: https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dsttCDySxp7SqbiSQh/viwptan7PxYzp
+        icon: fas fa-link
+        description: ""
+      - name: 搜图导航-一款强大且智能的设计师导航
+        url: https://www.91sotu.com/
+        icon: fas fa-link
+        description: ""
+      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
+        url: https://www.ak47s.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 五花八门导航2.0_一个简洁的高度自定义导航网站
+        url: http://lxqnsys.com/d/#/index
+        icon: fas fa-link
+        description: ""
+      - name: 阡途导航
+        url: http://123.tentod.com/
         icon: fas fa-link
         description: ""
   - name: 备用域名
@@ -1406,6 +1690,42 @@ categories:
         description: ""
       - name: 人人影视，有大佬爬了它全站离线资源，限时分享！ – IT技术之家
         url: https://www.ittel.cn/archives/4254.html
+        icon: fas fa-link
+        description: ""
+      - name: SOZMZ - 人人影视分级搜索
+        url: https://v.dsb.ink/#/
+        icon: fas fa-link
+        description: ""
+      - name: 影迷导航网-YingMi123,影迷的专业导航(精简版)
+        url: http://www.yingmi123.com/
+        icon: fas fa-link
+        description: ""
+      - name: 影视森林——观影第一站
+        url: http://www.549.tv/#
+        icon: fas fa-link
+        description: ""
+      - name: 盘他-盘搜索
+        url: https://panother.com/
+        icon: fas fa-link
+        description: ""
+      - name: 电影电视剧资源网站 / APP | EdNovas 的小站
+        url: https://ednovas.xyz/2021/02/22/videos/#VIP%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%EF%BC%88-%E5%90%8E%E9%9D%A2%E6%94%BE%E4%B8%8A%E7%88%B1%E5%A5%87%E8%89%BA%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E7%AD%89%E8%A7%86%E9%A2%91%E5%9C%B0%E5%9D%80%EF%BC%89
+        icon: fas fa-link
+        description: ""
+      - name: 美剧星球 —— 可能是手机上最好用的影视 APP | EdNovas 的小站
+        url: https://ednovas.xyz/2021/01/10/%E7%BE%8E%E5%89%A7%E6%98%9F%E7%90%83/#%E6%96%B0%E7%89%87%E9%80%9F%E5%BA%A6
+        icon: fas fa-link
+        description: ""
+      - name: 毕方铺 - 网盘搜索神器，可以替代云盘精灵、虫部落、盘搜搜等工具。
+        url: https://www.iizhi.cn/
+        icon: fas fa-link
+        description: ""
+      - name: "|天天美剧|美剧鸟-美剧虾|美剧侠"
+        url: http://www.meijuxia.net/
+        icon: fas fa-link
+        description: ""
+      - name: 一秒导航 - 免费看最新不卡VIP影视日韩泰剧动漫漫画美图网站！
+        url: https://www.1sdh.com/
         icon: fas fa-link
         description: ""
       - name: 电影狗 - 专业电影搜索引擎
@@ -1498,165 +1818,6 @@ categories:
         description: ""
       - name: 地址发布
         url: https://www.libvio.app/
-        icon: fas fa-link
-        description: ""
-  - name: daohang
-    icon: fas fa-folder
-    sites:
-      - name: 聚点 - 基于关键词的新闻订阅
-        url: https://www.judian.com.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 果汁实验室 - 发现国内外优质网站
-        url: http://guozhivip.com/lab/
-        icon: fas fa-link
-        description: ""
-      - name: 虫部落-让搜索更简单！
-        url: https://www.chongbuluo.com/
-        icon: fas fa-link
-        description: ""
-      - name: NO404 - 让天下不再有消失的网站！
-        url: https://www.no404.me/
-        icon: fas fa-link
-        description: ""
-      - name: 聚奇异学习导航 | 一个收集学习网站的地方！
-        url: http://ju71.com/
-        icon: fas fa-link
-        description: ""
-      - name: 果汁排行榜 - 各类榜单排名大全
-        url: http://guozhivip.com/rank/
-        icon: fas fa-link
-        description: ""
-      - name: 老司机导航 - 来不及了！
-        url: http://www.giffox.com/
-        icon: fas fa-link
-        description: ""
-      - name: 快导航网 | 站在前方,为你导航
-        url: https://www.hifast.cn/#term-12
-        icon: fas fa-link
-        description: ""
-      - name: 24k导航 | 专注全网优质网址、优质资源分享。
-        url: https://www.24kdh.com/
-        icon: fas fa-link
-        description: ""
-      - name: 学术网址大全--国外免费论文|国内期刊发表|论文网站导航|文献翻译大全
-        url: https://www.ulunwen.com/tools/xueshu.php
-        icon: fas fa-link
-        description: ""
-      - name: 便查主页
-        url: https://www.52blc.com/
-        icon: fas fa-link
-        description: ""
-      - name: 政府_政府部门_政府机构_国家机关_卫生部_教育部_2345网址导航-2345.com
-        url: http://www.2345.com/inner/gov.htm
-        icon: fas fa-link
-        description: ""
-      - name: 笔点 - 用心做最简洁的网址导航_首页
-        url: https://www.bidianer.com/#/
-        icon: fas fa-link
-        description: ""
-      - name: 龙轩导航-做个有用的导航
-        url: http://ilxdh.com/
-        icon: fas fa-link
-        description: ""
-      - name: 效率集-自定义网址导航,多重搜索
-        url: http://www.xiaolvji.com/
-        icon: fas fa-link
-        description: ""
-      - name: Byr.wiki·北邮人导航
-        url: http://byr.wiki/
-        icon: fas fa-link
-        description: ""
-      - name: 24k导航 | 专注全网优质网址、优质资源分享。
-        url: https://www.24kdh.com/?cate=26#
-        icon: fas fa-link
-        description: ""
-      - name: 某柠檬_柠檬味的导航
-        url: https://www.moulem.com/?h08z
-        icon: fas fa-link
-        description: ""
-      - name: 柴都导航 – 汇集全网优质网址及资源
-        url: https://www.chaidu.com/
-        icon: fas fa-link
-        description: ""
-      - name: Google学术,SCI-HUB网址,-文献下载导航
-        url: http://489.org/
-        icon: fas fa-link
-        description: ""
-      - name: 谷歌学术_Google学术搜索-科研干货导航
-        url: http://www.9312.net/
-        icon: fas fa-link
-        description: ""
-      - name: Mirror List学术搜索
-        url: https://www.library.ac.cn/
-        icon: fas fa-link
-        description: ""
-      - name: Google学术搜索|SCI-HUB网址|谷歌学术搜索|龙猫学术导航
-        url: http://www.6453.net/
-        icon: fas fa-link
-        description: ""
-      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
-        url: https://www.ak47s.cn/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 西瓜导航 | 收藏你喜欢的网站！
-        url: https://nav.hzwdd.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 醉长生 - 有资源的网址导航
-        url: https://www.3zcs.com/
-        icon: fas fa-link
-        description: ""
-      - name: 恰鹿后花园 - 恰鹿导航后花园分享一切
-        url: https://hou.qialu999.com/
-        icon: fas fa-link
-        description: ""
-      - name: 龙喵网 - 有态度的网址导航
-        url: https://ailongmiao.com/
-        icon: fas fa-link
-        description: ""
-      - name: 国外网址导航_国外网站大全_116呀
-        url: http://www.116ya.com/
-        icon: fas fa-link
-        description: ""
-      - name: 炫猿
-        url: https://xydh.fun/
-        icon: fas fa-link
-        description: ""
-      - name: 爱达杂货铺 | 收集那些有用的东西|爱达导航
-        url: https://adzhp.cn/
-        icon: fas fa-link
-        description: ""
-      - name: GuideBook-让工作学习生活更高效！
-        url: https://www.guidebook.top/
-        icon: fas fa-link
-        description: ""
-      - name: 果汁导航 - 上网从这里开始！
-        url: http://guozhivip.com/
-        icon: fas fa-link
-        description: ""
-      - name: 优质导航网站收录
-        url: https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dsttCDySxp7SqbiSQh/viwptan7PxYzp
-        icon: fas fa-link
-        description: ""
-      - name: 搜图导航-一款强大且智能的设计师导航
-        url: https://www.91sotu.com/
-        icon: fas fa-link
-        description: ""
-      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
-        url: https://www.ak47s.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 五花八门导航2.0_一个简洁的高度自定义导航网站
-        url: http://lxqnsys.com/d/#/index
-        icon: fas fa-link
-        description: ""
-      - name: 阡途导航
-        url: http://123.tentod.com/
-        icon: fas fa-link
-        description: ""
-      - name: 福利吧导航 | 发现更大的世界
-        url: https://fuliba123.com/
         icon: fas fa-link
         description: ""
   - name: some_sites
@@ -1998,638 +2159,6 @@ categories:
         url: https://www.douban.com/gallery/topic/157/
         icon: fas fa-link
         description: ""
-      - name: 技术 | 在OFC 2022上发表的基于InP和LIGENTEC厚SiN芯片的混合集成高功率窄线宽可调谐激光器 - 知乎
-        url: https://zhuanlan.zhihu.com/p/564930380
-        icon: fas fa-link
-        description: ""
-      - name: ALINX FPGA开发板Xilinx zynq开发板ZYNQ7020 7010 7000学习板黑金 AX7020 开发板【图片 价格 品牌 报价】-京东
-        url: https://item.jd.com/10036488870096.html
-        icon: fas fa-link
-        description: ""
-      - name: (14条消息) APB协议详解_南柯一一梦的博客-CSDN博客
-        url: https://blog.csdn.net/weixin_43373901/article/details/125782015
-        icon: fas fa-link
-        description: ""
-      - name: "ywmoyue/biliuwp-lite: 哔哩哔哩UWP Lite"
-        url: https://github.com/ywmoyue/biliuwp-lite
-        icon: fab fa-github
-        description: ""
-      - name: word方框（□）中打钩（√）的3种方法
-        url: http://www.ntsc.edu.cn/netcenter/2018/0520/c199a24093/page.psp
-        icon: fas fa-link
-        description: ""
-      - name: 增益芯片 | Anritsu 中国
-        url: https://www.anritsu.com/zh-CN/sensing-devices/products/gain-chip
-        icon: fas fa-link
-        description: ""
-      - name: 我的浏览器标签同步方案：坚果云+Floccus - wakasann - 博客园
-        url: https://www.cnblogs.com/fsong/p/11758844.html
-        icon: fas fa-link
-        description: ""
-      - name: 贷款计算器_六安市住房公积金管理中心
-        url: http://zfgjj.luan.gov.cn/gjjfw/dkjsq/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 深度解读硅光子芯片外腔窄线宽半导体激光器_集成
-        url: https://www.sohu.com/a/389221744_100034932
-        icon: fas fa-link
-        description: ""
-      - name: 彩云开放平台
-        url: https://dashboard.caiyunapp.com/v1/token/62fb0213f95136034887bc17/?type=2
-        icon: fas fa-link
-        description: ""
-      - name: (14条消息) 详细介绍竞争与冒险_增加冗余项_Black-S的博客-CSDN博客
-        url: https://blog.csdn.net/qq_55894557/article/details/126558657
-        icon: fas fa-link
-        description: ""
-      - name: 转载-origin--设置成中文/Change Language菜单是灰色的（OriginPro 2021） - 知乎
-        url: https://zhuanlan.zhihu.com/p/459412782
-        icon: fas fa-link
-        description: ""
-      - name: 竞争与冒险_卡诺图相切_Crazzy_M的博客-CSDN博客
-        url: https://blog.csdn.net/qq_40147893/article/details/117357920
-        icon: fas fa-link
-        description: ""
-      - name: VNC简明使用教程 - 逍遥隐士 - 博客园
-        url: https://www.cnblogs.com/ccav1/p/14448108.html
-        icon: fas fa-link
-        description: ""
-      - name: (14条消息) 【工具】[Listary]好用到哭的快速搜索工具_listary重建搜索索引_PillarPeng的博客-CSDN博客
-        url: https://blog.csdn.net/pillarpeng/article/details/53353713
-        icon: fas fa-link
-        description: ""
-      - name: (15条消息) 超详细的Engauge Digitizer 软件教程_Ivanamber的博客-CSDN博客
-        url: https://blog.csdn.net/Ivanamber/article/details/114261311#_7
-        icon: fas fa-link
-        description: ""
-      - name: 科研利器——图中取数据Engauge-Digitizer - 知乎
-        url: https://zhuanlan.zhihu.com/p/114379861
-        icon: fas fa-link
-        description: ""
-      - name: 数据点不够，如何做到曲线曲面图的美化效果？
-        url: https://mp.weixin.qq.com/s?__biz=Mzg5MzUzNTMyNw==&amp;mid=2247485268&amp;idx=1&amp;sn=a1cb693b0e3a15e2ab78f2531c7aa793&amp;chksm=c02c1264f75b9b721643261d89378e2420a1d0e2061e7471c924481d7630ca6a448de68ccea3&amp;token=1530079580&amp;lang=zh_CN#rd
-        icon: fas fa-link
-        description: ""
-      - name: SublimeText
-        url: https://www.lanzoux.com/b0f1of3rg
-        icon: fas fa-link
-        description: ""
-      - name: "Spring 2004 CS152: Lecture Schedule and Handouts"
-        url: https://people.eecs.berkeley.edu/~kubitron/courses/cs152-S04/index_lectures.html
-        icon: fas fa-link
-        description: ""
-      - name: 学习verilog、SV和UVM
-        url: https://www.chipverify.com/
-        icon: fas fa-link
-        description: ""
-      - name: 跨时钟域处理方法总结--最终详尽版 - love小酒窝 - 博客园
-        url: https://www.cnblogs.com/lyc-seu/p/12441366.html#%E8%B7%A8%E6%97%B6%E9%92%9F%E5%9F%9F%E5%A4%84%E7%90%86--%E6%9C%80%E7%BB%88%E8%AF%A6%E5%B0%BD%E7%89%88
-        icon: fas fa-link
-        description: ""
-      - name: Global - Worldwide Trip
-        url: https://www.q1travel.cloud/index.html
-        icon: fas fa-link
-        description: ""
-      - name: FC资源整理
-        url: http://1574802932.ysepan.com/
-        icon: fas fa-link
-        description: ""
-      - name: vivado安装System Generator不支持新版Matlab怎么办？_Segment fault的博客-CSDN博客_安装vivado时出现 弄 supported version of matlab
-        url: https://blog.csdn.net/Namcodream521/article/details/88078595
-        icon: fas fa-link
-        description: ""
-      - name: (7条消息) Acrobat DC 安装程序错误1603 在系统中找不到 Microsoft Visual C++(x64) 运行_安装adobeacrobatdc错误1603_Charlieraiser的博客-CSDN博客
-        url: https://blog.csdn.net/weixin_43904689/article/details/104474472
-        icon: fas fa-link
-        description: ""
-      - name: OpenAI 保姆级注册教程 | LetsVPN Help Center
-        url: https://intercom.help/letsvpn-world/en/articles/6973491-openai-%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B
-        icon: fas fa-link
-        description: ""
-      - name: 用户信息 - 550智慧大脑
-        url: https://550w.fun/#/user/USER_CENTER
-        icon: fas fa-link
-        description: ""
-      - name: OpenAI登录教程（请仔细阅读）
-        url: https://www.kdocs.cn/l/cvEBEjdF1o07
-        icon: fas fa-link
-        description: ""
-      - name: (7条消息) 用于FMCW LIDAR的的高功率DBR激光器_Lightigo的博客-CSDN博客
-        url: https://blog.csdn.net/qq_40624256/article/details/125114232
-        icon: fas fa-link
-        description: ""
-      - name: 纯小白：VCS简介&amp;UVM库导入&amp;vim插件 - 哔哩哔哩
-        url: https://www.bilibili.com/read/cv18515137
-        icon: fas fa-link
-        description: ""
-      - name: Altium Designer（AD）17安装教程 - 软仓
-        url: https://blog.ruancang.net/post/1250.html
-        icon: fas fa-link
-        description: ""
-      - name: Origin 2021软件安装教程
-        url: https://mp.weixin.qq.com/s/ZZlIaVUgnSrwxlvTS_-xPQ
-        icon: fas fa-link
-        description: ""
-      - name: 通信、电子与硬科技的框架性理解指南（三十一）：硅光芯片（一）
-        url: https://mp.weixin.qq.com/s/3-6XAToO0rfZNaeE8ptV1Q
-        icon: fas fa-link
-        description: ""
-      - name: 定制外腔可调谐激光器 &gt; LioniX International
-        url: https://www.lionix-international.com/about-us/blog/custom-external-cavity-tunable-lasers/
-        icon: fas fa-link
-        description: ""
-      - name: 用于 FMCW LiDAR 的混合集成超低线宽和快速啁啾激光器
-        url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-17-30420&amp;id=488564
-        icon: fas fa-link
-        description: ""
-      - name: "Error during import torch, NameError: name &#039;_C&#039; is not defined · Issue #1633 · pytorch/pytorch · GitHub"
-        url: https://github.com/pytorch/pytorch/issues/1633
-        icon: fab fa-github
-        description: ""
-      - name: (8条消息) Notepad++代码编辑器——Verilog编译_verilog编辑器_voiue的博客-CSDN博客
-        url: https://blog.csdn.net/voiue/article/details/126868169
-        icon: fas fa-link
-        description: ""
-      - name: 咸鱼FPGA - 博客园
-        url: https://www.cnblogs.com/xianyufpga/
-        icon: fas fa-link
-        description: ""
-      - name: UVM中sequence的两种启动方式 - SOC验证工程师 - 博客园
-        url: https://www.cnblogs.com/Alfred-HOO/articles/15477981.html
-        icon: fas fa-link
-        description: ""
-      - name: Verilog 基础知识第一部分
-        url: https://www.asic-world.com/systemverilog/basic1.html#Block_diagram_of_arbiter
-        icon: fas fa-link
-        description: ""
-      - name: Verilog Basics Part-I
-        url: https://www.asic-world.com/systemverilog/basic1.html#Data_Type
-        icon: fas fa-link
-        description: ""
-      - name: WWW.TESTBENCH.IN - Verilog Basic Constructs
-        url: http://testbench.in/VT_09_BLOCK_STATEMENTS.html
-        icon: fas fa-link
-        description: ""
-      - name: Welcome To SystemVerilog Central
-        url: https://www.asic-world.com/systemverilog/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 一个简单的UVM项目的学习记录（一）——准备工作 - TooyamaYuuouji - 博客园
-        url: https://www.cnblogs.com/Lexington-CV2/articles/16597207.html
-        icon: fas fa-link
-        description: ""
-      - name: (8条消息) vcs与verdi学习记录_vcs file.list_IC学习者的博客-CSDN博客
-        url: https://blog.csdn.net/I_LOVE_MCU/article/details/125871580?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-5-125871580-blog-103022656.pc_relevant_multi_platform_whitelistv3&amp;spm=1001.2101.3001.4242.4&amp;utm_relevant_index=8
-        icon: fas fa-link
-        description: ""
-      - name: (8条消息) verdi使用linux命令,verdi工具的使用_古筝圈小透明的博客-CSDN博客
-        url: https://blog.csdn.net/weixin_29611573/article/details/116612835
-        icon: fas fa-link
-        description: ""
-      - name: 如何使用VCS和verdi跑通《UVM实战》上的例子_在线网速测试
-        url: https://www.wangsu123.cn/news/21341.html
-        icon: fas fa-link
-        description: ""
-      - name: (8条消息) Verdi命令行调用选项用法_uvm_verdi_trace_Alfred.HOO的博客-CSDN博客
-        url: https://blog.csdn.net/Michael177/article/details/124639341
-        icon: fas fa-link
-        description: ""
-      - name: (8条消息) SV学习笔记—队列及方法_sv队列_Verification_White的博客-CSDN博客
-        url: https://blog.csdn.net/qq_41337361/article/details/122779375
-        icon: fas fa-link
-        description: ""
-      - name: (8条消息) 如何学习FPGA_如何学好fpga_队长-Leader的博客-CSDN博客
-        url: https://blog.csdn.net/k331922164/article/details/44626989
-        icon: fas fa-link
-        description: ""
-      - name: (8条消息) 真正的全栈工程师！B站硬核UP主自己造了一个激光雷达_3Ｄ视觉工坊的博客-CSDN博客
-        url: https://blog.csdn.net/Yong_Qi2015/article/details/122773595?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167862220316800182113343%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;request_id=167862220316800182113343&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-24-122773595-null-null.142^v73^insert_down3,201^v4^add_ask,239^v2^insert_chatgpt&amp;utm_term=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%20fpga&amp;spm=1018.2226.3001.4187
-        icon: fas fa-link
-        description: ""
-      - name: AHB总线总结 - 知乎
-        url: https://zhuanlan.zhihu.com/p/455218479
-        icon: fas fa-link
-        description: ""
-      - name: 传感器 | 免费全文 | FMCW LiDAR 系统可降低硬件复杂性和后处理技术以提高距离分辨率
-        url: https://www.mdpi.com/1424-8220/20/22/6676
-        icon: fas fa-link
-        description: ""
-      - name: 正点原子资料下载中心 — 正点原子资料下载中心 1.0.0 文档
-        url: http://www.openedv.com/docs/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 集成运放LM324芯片手册解读 - 百度文库
-        url: https://wenku.baidu.com/view/4fbbdd935cbfc77da26925c52cc58bd6318693f8.html?_wkts_=1678703770317&amp;bdQuery=lm324%E8%8A%AF%E7%89%87%E6%89%8B%E5%86%8C
-        icon: fas fa-link
-        description: ""
-      - name: N9030A用户手册-明确特点.pdf-原创力文档
-        url: https://max.book118.com/html/2022/0314/8051131034004063.shtm
-        icon: fas fa-link
-        description: ""
-      - name: N9030A用户手册 - 百度文库
-        url: https://wenku.baidu.com/view/b63f63f24693daef5ef73d93.html?_wkts_=1678717082389&amp;bdQuery=pxa+N9030A+3Hz-26.5GHz+kysight%E9%A2%91%E8%B0%B1%E4%BB%AA%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C
-        icon: fas fa-link
-        description: ""
-      - name: "Open-Source Application Development :: add0n.com"
-        url: https://add0n.com/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 相关软件下载 | 油小猴
-        url: https://www.youxiaohou.com/download.html
-        icon: fas fa-link
-        description: ""
-      - name: Keil MDK µVision 5 下载安装及破解教程 - 吴川斌的博客
-        url: https://www.mr-wu.cn/keil-mdk-uvision-5-crack/
-        icon: fas fa-link
-        description: ""
-      - name: Adobe Acrobat Pro DC 2022 软件分享 - 吴川斌的博客
-        url: https://www.mr-wu.cn/adobe-acrobat-pro-dc-2022-free-download/
-        icon: fas fa-link
-        description: ""
-      - name: AutoCAD 2023 中英文完整安装包以及 AutoCAD 2023 LT 轻量版安装包分享（史上最容易安装版本） - 吴川斌的博客
-        url: https://www.mr-wu.cn/autocad-2023-free-download/
-        icon: fas fa-link
-        description: ""
-      - name: Release Motrix v1.6.11 · agalwood/Motrix
-        url: https://github.com/agalwood/Motrix/releases/tag/v1.6.11
-        icon: fab fa-github
-        description: ""
-      - name: AutoCAD 2021 绿色精简版 PCB Layout 看结构图完全够用了 - 吴川斌的博客
-        url: https://www.mr-wu.cn/autocad-2021-lite/
-        icon: fas fa-link
-        description: ""
-      - name: Keysight PathWave ADS 2022 Update 2.0 软件下载与安装教程 - 吴川斌的博客
-        url: https://www.mr-wu.cn/pathwave-advanced-design-system-ads-2022-update-20/
-        icon: fas fa-link
-        description: ""
-      - name: (15条消息) 分析Verilog版的step模块的原理图_verilog自动生成模块连接图_liaoxinmeng的博客-CSDN博客
-        url: https://blog.csdn.net/liaoxinmeng/article/details/5605593
-        icon: fas fa-link
-        description: ""
-      - name: "md: ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性"
-        url: https://gitee.com/Doocs/md?_from=gitee_search
-        icon: fas fa-link
-        description: ""
-      - name: (16条消息) 将示波器数据导入到MATLAB/Simulink_示波器测量的数据怎么输入simulink_麦克斯韦不懂薛定谔方程的博客-CSDN博客
-        url: https://blog.csdn.net/qq_36697422/article/details/114954412
-        icon: fas fa-link
-        description: ""
-      - name: 示波器数据导入MATLAB进行后续分析_51CTO博客_simulink导入数据
-        url: https://blog.51cto.com/zoomdy/5871780
-        icon: fas fa-link
-        description: ""
-      - name: (16条消息) 惠普触控板使用指南_软硬件技巧 篇一：原来这才是正确的触摸板使用方式！..._weixin_39637920的博客-CSDN博客
-        url: https://blog.csdn.net/weixin_39637920/article/details/111522897
-        icon: fas fa-link
-        description: ""
-      - name: 基于UVM的AMBA总线验证环境的设计与实现_唐婧文.pdf
-        url: chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://docdown.cnki.net/docdown/fulltext/download?q=NP7oX%2BLD6jdCNfVk3NNhrm9MJp3d6yNDS%2Fvyi4YVgZM%2FuDcCejk9rqNtF%2FapHQo4%2BWBJaWomcbemXg9%2BlAbKac%2FlsQvSg2C%2F2Qa5754qBSyO9NfZEymTLmN0Hmg%2F6V513VgV0vlsBWEQSK1u2KndudJI76WM6Sfs%2FGBfI1kKtaFEafmkzX5YFWissVoqAD0gXeCri5Ko5DaSH%2Bh3VB4LQadGqE0L5q4IoXBb17vPbzWnW0PULOq6%2FOV%2B80ocW3A4t5bGiPkvty1wKi7HcBV08kDSZATT7Tq5AqZjXR3LVv%2FlJEBGKhFOLDKsYPgizBVqIEeI7GLz8Pnurt8Aqsdxsk8qxiOf7Hs90V9R34c3cKK4kEEE8DJ0mgTRatFjHRWoX43Vpi9SNcCQMpmuYGV4gDONtMF3we6oQXJ%2BBssb3UHV2Z1hMhdDeT%2BfASfkPiFV0zE6TikJPFYDWhU0utsQgRNuZZaGwe7EjMaKax%2FSTuZv%2Fidpa1IibVk3Xa8NbmEsAVdPQc1U%2FiGSdZNajMpJVafzyzEy3kMWFbQySqgzl%2FiscaOb5TpDiUoJGp1ugKlJ&amp;invoice=v5qsVK2wVQpl6Z92Jd%2BduzGg4uBd%2Fz7Nkz2UV%2BM4DWYFfATg0AP1pIFp1LuOl2YnUjWNGG2l4CLWf1KWE0CbJ2Yxz0Yh%2FuomE7PeKcVJ3NvWkuuZLIu1pF220ZnBTrGdTMQSOLrkQB0ZOxOksTc1a5uQVTo%2FBmjk1KcwyJdfhxo%3D
-        icon: fas fa-link
-        description: ""
-      - name: IC验证SV&amp;UVM语法常识总结_sv中￥urandom_range(100)_矜持小梦的博客-CSDN博客
-        url: https://blog.csdn.net/m0_58209201/article/details/126305072
-        icon: fas fa-link
-        description: ""
-      - name: 油小猴
-        url: https://www.youxiaohou.com/?utm=assistant.crx
-        icon: fas fa-link
-        description: ""
-      - name: 免费密码管理界的神竟然收费了！难民们该去哪儿？
-        url: https://mp.weixin.qq.com/s/6wFzKnDQ8Q2LSI9SMkGugg
-        icon: fas fa-link
-        description: ""
-      - name: Fitz&#039;s Blog
-        url: https://zhouyuqian.com/
-        icon: fas fa-link
-        description: ""
-      - name: 免费电路图仿真软件LTspice - EDA资源使用讨论 - EETOP 创芯网论坛 (原名：电子顶级开发网) -
-        url: https://bbs.eetop.cn/thread-405241-1-1.html
-        icon: fas fa-link
-        description: ""
-      - name: Cadence学习篇(12) Cadence中使用Pspice进行电路仿真_pspice仿真_学工科的皮皮志^_^的博客-CSDN博客
-        url: https://blog.csdn.net/qq_45138815/article/details/126086994
-        icon: fas fa-link
-        description: ""
-      - name: PSpice仿真培训 | 从入门到精通21周学习计划
-        url: https://app.ma.scrmtech.com/material/read/index?new_id=299556&amp;wx_id=1396
-        icon: fas fa-link
-        description: ""
-      - name: 阿里云盘分享
-        url: https://www.aliyundrive.com/s/M5e7i4Vngeu
-        icon: fas fa-link
-        description: ""
-      - name: "解决git链接失败问题fatal: unable to connect to github.com: github.com-杂草猿工记-个人博客-韦炳生博客-技术分享"
-        url: http://wxauth.alipay168.cn/blog/index/detail/item/747.html
-        icon: fas fa-link
-        description: ""
-      - name: $random随机函数 - _见贤_思齐 - 博客园
-        url: https://www.cnblogs.com/csjt/p/15825987.html
-        icon: fas fa-link
-        description: ""
-      - name: 【Verilog 常见设计】（0）二进制码和格雷码互转 Verilog 实现_verilog 格雷码_Linest-5的博客-CSDN博客
-        url: https://blog.csdn.net/m0_61298445/article/details/127039824
-        icon: fas fa-link
-        description: ""
-      - name: 二进制与格雷码之间的转换的Verilog实现（更多一点的讨论）_51CTO博客_格雷码转二进制 verilog
-        url: https://blog.51cto.com/u_15338162/5216405
-        icon: fas fa-link
-        description: ""
-      - name: SVA——断言属性之序列（sequence与property的用法）_disable iff_SD.ZHAI的博客-CSDN博客
-        url: https://blog.csdn.net/weixin_46022434/article/details/105469623
-        icon: fas fa-link
-        description: ""
-      - name: 吾爱破解又出神器，比付费还好用！
-        url: https://mp.weixin.qq.com/s/39elHhXqvAiO3K1ueDg6jg
-        icon: fas fa-link
-        description: ""
-      - name: 重大更新！微软封杀后，又满血复活了！
-        url: https://mp.weixin.qq.com/s/khqLvTWu-aKKoW11Ya-phQ
-        icon: fas fa-link
-        description: ""
-      - name: Pycharm 中 virtualenv、pipenv、conda 虚拟环境的用法 - R-Bear - 博客园
-        url: https://www.cnblogs.com/R-bear/p/18076448
-        icon: fas fa-link
-        description: ""
-      - name: Syncthing开源免费跨平台的文件同步工具-利用Syncthing搭建免费同步网盘 - 玉米花豆 - 博客园
-        url: https://www.cnblogs.com/fisherpau/p/17475009.html
-        icon: fas fa-link
-        description: ""
-      - name: linux基础篇（一）——GCC和Makefile编译过程_gcc makefile编译-CSDN博客
-        url: https://blog.csdn.net/sinat_31039061/article/details/98885275
-        icon: fas fa-link
-        description: ""
-      - name: github配置SSH-Key保姆级教程 - 知乎
-        url: https://zhuanlan.zhihu.com/p/688103044
-        icon: fas fa-link
-        description: ""
-      - name: 教你Linux如何安装git并配置参数以及如何上传下载GitHub代码（超详细）-阿里云开发者社区
-        url: https://developer.aliyun.com/article/1299311
-        icon: fas fa-link
-        description: ""
-      - name: "【已解决】fatal: Authentication failed for ‘https://github.com/.../‘-CSDN博客"
-        url: https://blog.csdn.net/m0_73156359/article/details/135585372
-        icon: fas fa-link
-        description: ""
-      - name: （12）笔记：使用阿里云私有仓库存储自己的docker镜像 - 知乎
-        url: https://zhuanlan.zhihu.com/p/669796818
-        icon: fas fa-link
-        description: ""
-      - name: docker基础(八)之docker commit，docker tag,docker cp,docker diff_docker commit tag-CSDN博客
-        url: https://blog.csdn.net/qq_40804558/article/details/136946940
-        icon: fas fa-link
-        description: ""
-      - name: Docker命令手册 · 看云
-        url: https://www.kancloud.cn/woshigrey/docker
-        icon: fas fa-link
-        description: ""
-      - name: Synopsys全套docker镜像使用指南 - 空白MAX - 博客园
-        url: https://www.cnblogs.com/icparadigm/p/13827684.html
-        icon: fas fa-link
-        description: ""
-      - name: 关闭win10防火墙和网络保护通知_总是弹出防火墙和网络保护-CSDN博客
-        url: https://blog.csdn.net/qq_31852001/article/details/88993902
-        icon: fas fa-link
-        description: ""
-      - name: Windows 字体美化经验 | 咸鱼阿康
-        url: https://xianyukang.com/windows-font-optimization.html
-        icon: fas fa-link
-        description: ""
-      - name: 爱之梦梦 | Link3
-        url: https://link3.cc/miffy520
-        icon: fas fa-link
-        description: ""
-      - name: 首页 | JIKE
-        url: https://jike.info/
-        icon: fas fa-link
-        description: ""
-      - name: 《行尸走肉：达里尔·迪克森第二季》迅雷下载/在线观看-灵异惊悚-美剧天堂
-        url: https://www.meijutt.tv/content/meiju29486.html
-        icon: fas fa-link
-        description: ""
-      - name: 黄石 第一季 - 第1集-未删减免费在线播放 - 子子影视
-        url: https://www.ziziys.com/video/3046-1-1.html
-        icon: fas fa-link
-        description: ""
-      - name: 约一个月linux办公环境使用体验 - sasasatori - 博客园
-        url: https://www.cnblogs.com/sasasatori/p/16748484.html
-        icon: fas fa-link
-        description: ""
-      - name: 一个字符占几个字节 - he何航 - 博客园
-        url: https://www.cnblogs.com/hangqqw/p/16639042.html
-        icon: fas fa-link
-        description: ""
-      - name: 分享一些永硕E盘搭建的资源站 - 我的书签
-        url: https://it-cxy.top/?c=article&amp;id=17
-        icon: fas fa-link
-        description: ""
-      - name: AMBA-CHI协议和一致性维护及CMN600-CSDN博客
-        url: https://blog.csdn.net/cy413026/article/details/136461145
-        icon: fas fa-link
-        description: ""
-      - name: GitHub
-        url: https://github.com/
-        icon: fab fa-github
-        description: ""
-      - name: 海知网
-        url: https://chn.oversea.cnki.net/index/
-        icon: fas fa-link
-        description: ""
-      - name: SciHub
-        url: https://sci-hub.se/
-        icon: fas fa-link
-        description: ""
-      - name: IEEE
-        url: https://ieeexplore.ieee.org/Xplore/home.jsp
-        icon: fas fa-link
-        description: ""
-      - name: CSDN
-        url: https://www.csdn.net/?spm=1001.2014.3001.4476
-        icon: fas fa-link
-        description: ""
-      - name: 坚果云
-        url: https://www.jianguoyun.com/#/
-        icon: fas fa-link
-        description: ""
-      - name: 小书匠
-        url: https://markdown.xiaoshujiang.com/
-        icon: fas fa-link
-        description: ""
-      - name: Similarweb
-        url: https://www.similarweb.com/zh/top-apps/google/ireland/social/
-        icon: fas fa-link
-        description: ""
-  - name: 云
-    icon: fas fa-folder
-    sites:
-      - name: Office365使用
-        url: https://nic.seu.edu.cn/info/1069/1459.htm
-        icon: fas fa-link
-        description: ""
-      - name: Office 365
-        url: https://o365.seu.edu.cn/Home/o365
-        icon: fas fa-link
-        description: ""
-      - name: 如何让微软Onedrive同步其他硬盘的文件_onedrive如何增加文件夹-CSDN博客
-        url: https://blog.csdn.net/weixin_39802884/article/details/125130357
-        icon: fas fa-link
-        description: ""
-      - name: 让OneDrive同步电脑中任意指定文件夹：mklink命令_服务软件_什么值得买
-        url: https://post.smzdm.com/p/a5xmo24l/
-        icon: fas fa-link
-        description: ""
-  - name: ISP
-    icon: fas fa-folder
-    sites:
-      - name: UVM Environment for Image Signal Processing
-        url: https://sistenix.com/isp_uvm.html
-        icon: fas fa-link
-        description: ""
-  - name: github
-    icon: fas fa-folder
-    sites:
-      - name: "【GitHub】SSL certificate problem: unable to get local issuer certificate 的一种解决方案-CSDN博客"
-        url: https://blog.csdn.net/qq_42531954/article/details/131928288
-        icon: fas fa-link
-        description: ""
-      - name: 辣椒の酱
-        url: https://dogzi.fun/
-        icon: fas fa-link
-        description: ""
-      - name: "adisaktijrs/hexo-theme-minima: A lightweight dark/light theme for Hexo.js"
-        url: https://github.com/adisaktijrs/hexo-theme-minima
-        icon: fab fa-github
-        description: ""
-      - name: "HiNinoJay/hexo-theme-A4: A hexo theme that looks like an A4 paper."
-        url: https://github.com/HiNinoJay/hexo-theme-A4
-        icon: fab fa-github
-        description: ""
-      - name: "tufu9441/maupassant-hexo: A simple Hexo theme forked from icylogic."
-        url: https://github.com/tufu9441/maupassant-hexo
-        icon: fab fa-github
-        description: ""
-      - name: "wzpan/hexo-theme-wixo: A wiki theme for Hexo."
-        url: https://github.com/wzpan/hexo-theme-wixo
-        icon: fab fa-github
-        description: ""
-      - name: "next-theme/hexo-theme-next: 🎉 Elegant and powerful theme for Hexo."
-        url: https://github.com/next-theme/hexo-theme-next
-        icon: fab fa-github
-        description: ""
-      - name: "yelog/hexo-theme-3-hexo: hexo主题：三段式设计、极简、方便 Hexo theme: three-stage design"
-        url: https://github.com/yelog/hexo-theme-3-hexo
-        icon: fab fa-github
-        description: ""
-      - name: "zthxxx/hexo-theme-Wikitten: A theme of Hexo for personal wiki which seems like Wikitten style."
-        url: https://github.com/zthxxx/hexo-theme-Wikitten
-        icon: fab fa-github
-        description: ""
-      - name: "giscafer/hexo-theme-cafe: 精简的Hexo博客主题，样式风格如阮一峰老师博客"
-        url: https://github.com/giscafer/hexo-theme-cafe
-        icon: fab fa-github
-        description: ""
-      - name: "ppoffice/hexo-theme-icarus: A simple, delicate, and modern theme for the static site generator Hexo."
-        url: https://github.com/ppoffice/hexo-theme-icarus
-        icon: fab fa-github
-        description: ""
-      - name: "每天一个linux命令（51）: wc | 叶落阁"
-        url: http://yelog.org/2017/01/19/linux-command-51-wc/
-        icon: fas fa-link
-        description: ""
-      - name: 辣椒の酱
-        url: https://removeif.github.io/
-        icon: fab fa-github
-        description: ""
-      - name: 博客图片上传picgo工具github图传使用 - 辣椒の酱
-        url: https://removeif.github.io/theme/%E5%8D%9A%E5%AE%A2%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0picgo%E5%B7%A5%E5%85%B7github%E5%9B%BE%E4%BC%A0%E4%BD%BF%E7%94%A8.html
-        icon: fab fa-github
-        description: ""
-      - name: 基于Hexo在GitHub Pages上搭建博客的方法_hexo github pages-CSDN博客
-        url: https://blog.csdn.net/CsdnAKinKo/article/details/136141768
-        icon: fas fa-link
-        description: ""
-      - name: 常用软件清单 | 夜晚将会美丽、
-        url: https://night-zhang.github.io/2019/08/27/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E8%AE%B0%E5%BD%95/
-        icon: fab fa-github
-        description: ""
-      - name: windows环境下使用hexo搭建blog平台 | 叶落阁
-        url: http://yelog.org/2017/03/17/windows-hexo/
-        icon: fas fa-link
-        description: ""
-      - name: Git学习笔记 | 个人学习心得体会
-        url: https://wallleap.cn/2020/07/04/Git/
-        icon: fas fa-link
-        description: ""
-      - name: Mac使用Hexo和GitHub搭建博客(3)--发布文章 | 个人学习心得体会
-        url: https://wallleap.cn/2019/08/25/mac-blog3/
-        icon: fas fa-link
-        description: ""
-      - name: 叶落阁
-        url: https://yelog.org/
-        icon: fas fa-link
-        description: ""
-  - name: zsh
-    icon: fas fa-folder
-    sites:
-      - name: zsh 安装与配置，使用 oh-my-zsh 美化终端 | Leehow的小站
-        url: https://www.haoyep.com/posts/zsh-config-oh-my-zsh/
-        icon: fas fa-link
-        description: ""
-      - name: 【zsh使用技巧】Linux shell美化，ohmyzsh安装+Xshell美化，体验Mac命令行 - 云牧青 - 博客园
-        url: https://www.cnblogs.com/yunmuq/p/15817431.html
-        icon: fas fa-link
-        description: ""
-  - name: LinuxApp
-    icon: fas fa-folder
-    sites:
-      - name: 在 Rocky Linux 8 &amp; 9 中启用 EPEL、REMI、RPM Fusion 仓库 – Rocky Linux
-        url: https://www.rockylinux.cn/notes/zai-rocky-linux-9-shang-qi-yong-epel-he-remi-cang-ku.html
-        icon: fas fa-link
-        description: ""
-      - name: 分享Rocky Linux和AlmaLinux系统安装XFCE桌面环境的简单方法-惠主机
-        url: https://www.idccoupon.com/7641.html
-        icon: fas fa-link
-        description: ""
-      - name: Emacs 入门指南：Why &amp; How | 刘家财的个人网站
-        url: https://liujiacai.net/blog/2020/11/25/why-emacs/
-        icon: fas fa-link
-        description: ""
-  - name: game
-    icon: fas fa-folder
-    sites:
-      - name: 3DMGAME论坛
-        url: https://bbs.3dmgame.com/home.php?mod=spacecp&amp;ac=plugin&amp;id=qqconnect:spacecp
-        icon: fas fa-link
-        description: ""
-      - name: 可在线预览25年4月3日更新5
-        url: https://docs.qq.com/sheet/DQlJXbHhTR2ZhZXpm?appid=101520907&amp;od_appid=101520907&amp;client=101520907&amp;tab=BB08J2
-        icon: fas fa-link
-        description: ""
-  - name: note
-    icon: fas fa-folder
-    sites:
-      - name: PKMer_如何使用 Obsidian 笔记：一步一步的指南
-        url: https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8obsidian%E7%AC%94%E8%AE%B0-%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E7%9A%84%E6%8C%87%E5%8D%97/
-        icon: fas fa-link
-        description: ""
-      - name: DeepSeek小白成长手册合集 - 飞书云文档
-        url: https://xuqiwei1986.feishu.cn/wiki/Xqhew46CMiXD1AkJOURcvMDSnih
-        icon: fas fa-link
-        description: ""
-  - name: moyu
-    icon: fas fa-folder
-    sites:
-      - name: 抓鱼鸭 - 是一个有趣的新标签页
-        url: https://www.zhuayuya.com/
-        icon: fas fa-link
-        description: ""
-      - name: "[2025/05/16更新][开源] MeNav - 个人导航站 | 自动化构建 | 支持书签导入 | 求star🙏 - 开发调优 - LINUX DO"
-        url: https://linux.do/t/topic/614493
-        icon: fas fa-link
-        description: ""
-      - name: 我的导航
-        url: https://vliamzh.github.io/menav/#
-        icon: fab fa-github
-        description: ""
       - name: Google
         url: https://www.google.com/
         icon: fab fa-google
@@ -2638,7 +2167,7 @@ categories:
         url: https://www.youtube.com/
         icon: fab fa-youtube
         description: ""
-  - name: 其他书签
+  - name: 待归档
     icon: fas fa-folder
     sites:
       - name: WWW.TESTBENCH.IN - Verilog Basic Constructs
@@ -3137,15 +2666,436 @@ categories:
         url: https://zhuanlan.zhihu.com/p/581932297
         icon: fas fa-link
         description: ""
-  - name: 默认面板
-    icon: fas fa-folder
-    sites:
       - name: Windows下使用MSYS2进行开发小记录
         url: https://butui.me/posts/how-to-fuckup-msys2-in-windows/
         icon: fas fa-link
         description: ""
       - name: 简单易懂的GNU Emacs安装教程：世界著名的顶级全能文本编辑器 | 百二一
         url: https://rsreland.net/blog/202002291102/
+        icon: fas fa-link
+        description: ""
+      - name: 技术 | 在OFC 2022上发表的基于InP和LIGENTEC厚SiN芯片的混合集成高功率窄线宽可调谐激光器 - 知乎
+        url: https://zhuanlan.zhihu.com/p/564930380
+        icon: fas fa-link
+        description: ""
+      - name: ALINX FPGA开发板Xilinx zynq开发板ZYNQ7020 7010 7000学习板黑金 AX7020 开发板【图片 价格 品牌 报价】-京东
+        url: https://item.jd.com/10036488870096.html
+        icon: fas fa-link
+        description: ""
+      - name: (14条消息) APB协议详解_南柯一一梦的博客-CSDN博客
+        url: https://blog.csdn.net/weixin_43373901/article/details/125782015
+        icon: fas fa-link
+        description: ""
+      - name: "ywmoyue/biliuwp-lite: 哔哩哔哩UWP Lite"
+        url: https://github.com/ywmoyue/biliuwp-lite
+        icon: fab fa-github
+        description: ""
+      - name: word方框（□）中打钩（√）的3种方法
+        url: http://www.ntsc.edu.cn/netcenter/2018/0520/c199a24093/page.psp
+        icon: fas fa-link
+        description: ""
+      - name: 增益芯片 | Anritsu 中国
+        url: https://www.anritsu.com/zh-CN/sensing-devices/products/gain-chip
+        icon: fas fa-link
+        description: ""
+      - name: 我的浏览器标签同步方案：坚果云+Floccus - wakasann - 博客园
+        url: https://www.cnblogs.com/fsong/p/11758844.html
+        icon: fas fa-link
+        description: ""
+      - name: 贷款计算器_六安市住房公积金管理中心
+        url: http://zfgjj.luan.gov.cn/gjjfw/dkjsq/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 深度解读硅光子芯片外腔窄线宽半导体激光器_集成
+        url: https://www.sohu.com/a/389221744_100034932
+        icon: fas fa-link
+        description: ""
+      - name: 彩云开放平台
+        url: https://dashboard.caiyunapp.com/v1/token/62fb0213f95136034887bc17/?type=2
+        icon: fas fa-link
+        description: ""
+      - name: (14条消息) 详细介绍竞争与冒险_增加冗余项_Black-S的博客-CSDN博客
+        url: https://blog.csdn.net/qq_55894557/article/details/126558657
+        icon: fas fa-link
+        description: ""
+      - name: 转载-origin--设置成中文/Change Language菜单是灰色的（OriginPro 2021） - 知乎
+        url: https://zhuanlan.zhihu.com/p/459412782
+        icon: fas fa-link
+        description: ""
+      - name: 竞争与冒险_卡诺图相切_Crazzy_M的博客-CSDN博客
+        url: https://blog.csdn.net/qq_40147893/article/details/117357920
+        icon: fas fa-link
+        description: ""
+      - name: VNC简明使用教程 - 逍遥隐士 - 博客园
+        url: https://www.cnblogs.com/ccav1/p/14448108.html
+        icon: fas fa-link
+        description: ""
+      - name: (14条消息) 【工具】[Listary]好用到哭的快速搜索工具_listary重建搜索索引_PillarPeng的博客-CSDN博客
+        url: https://blog.csdn.net/pillarpeng/article/details/53353713
+        icon: fas fa-link
+        description: ""
+      - name: (15条消息) 超详细的Engauge Digitizer 软件教程_Ivanamber的博客-CSDN博客
+        url: https://blog.csdn.net/Ivanamber/article/details/114261311#_7
+        icon: fas fa-link
+        description: ""
+      - name: 科研利器——图中取数据Engauge-Digitizer - 知乎
+        url: https://zhuanlan.zhihu.com/p/114379861
+        icon: fas fa-link
+        description: ""
+      - name: 数据点不够，如何做到曲线曲面图的美化效果？
+        url: https://mp.weixin.qq.com/s?__biz=Mzg5MzUzNTMyNw==&amp;mid=2247485268&amp;idx=1&amp;sn=a1cb693b0e3a15e2ab78f2531c7aa793&amp;chksm=c02c1264f75b9b721643261d89378e2420a1d0e2061e7471c924481d7630ca6a448de68ccea3&amp;token=1530079580&amp;lang=zh_CN#rd
+        icon: fas fa-link
+        description: ""
+      - name: SublimeText
+        url: https://www.lanzoux.com/b0f1of3rg
+        icon: fas fa-link
+        description: ""
+      - name: "Spring 2004 CS152: Lecture Schedule and Handouts"
+        url: https://people.eecs.berkeley.edu/~kubitron/courses/cs152-S04/index_lectures.html
+        icon: fas fa-link
+        description: ""
+      - name: 学习verilog、SV和UVM
+        url: https://www.chipverify.com/
+        icon: fas fa-link
+        description: ""
+      - name: 跨时钟域处理方法总结--最终详尽版 - love小酒窝 - 博客园
+        url: https://www.cnblogs.com/lyc-seu/p/12441366.html#%E8%B7%A8%E6%97%B6%E9%92%9F%E5%9F%9F%E5%A4%84%E7%90%86--%E6%9C%80%E7%BB%88%E8%AF%A6%E5%B0%BD%E7%89%88
+        icon: fas fa-link
+        description: ""
+      - name: Global - Worldwide Trip
+        url: https://www.q1travel.cloud/index.html
+        icon: fas fa-link
+        description: ""
+      - name: FC资源整理
+        url: http://1574802932.ysepan.com/
+        icon: fas fa-link
+        description: ""
+      - name: vivado安装System Generator不支持新版Matlab怎么办？_Segment fault的博客-CSDN博客_安装vivado时出现 弄 supported version of matlab
+        url: https://blog.csdn.net/Namcodream521/article/details/88078595
+        icon: fas fa-link
+        description: ""
+      - name: (7条消息) Acrobat DC 安装程序错误1603 在系统中找不到 Microsoft Visual C++(x64) 运行_安装adobeacrobatdc错误1603_Charlieraiser的博客-CSDN博客
+        url: https://blog.csdn.net/weixin_43904689/article/details/104474472
+        icon: fas fa-link
+        description: ""
+      - name: OpenAI 保姆级注册教程 | LetsVPN Help Center
+        url: https://intercom.help/letsvpn-world/en/articles/6973491-openai-%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B
+        icon: fas fa-link
+        description: ""
+      - name: 用户信息 - 550智慧大脑
+        url: https://550w.fun/#/user/USER_CENTER
+        icon: fas fa-link
+        description: ""
+      - name: OpenAI登录教程（请仔细阅读）
+        url: https://www.kdocs.cn/l/cvEBEjdF1o07
+        icon: fas fa-link
+        description: ""
+      - name: (7条消息) 用于FMCW LIDAR的的高功率DBR激光器_Lightigo的博客-CSDN博客
+        url: https://blog.csdn.net/qq_40624256/article/details/125114232
+        icon: fas fa-link
+        description: ""
+      - name: 纯小白：VCS简介&amp;UVM库导入&amp;vim插件 - 哔哩哔哩
+        url: https://www.bilibili.com/read/cv18515137
+        icon: fas fa-link
+        description: ""
+      - name: Altium Designer（AD）17安装教程 - 软仓
+        url: https://blog.ruancang.net/post/1250.html
+        icon: fas fa-link
+        description: ""
+      - name: Origin 2021软件安装教程
+        url: https://mp.weixin.qq.com/s/ZZlIaVUgnSrwxlvTS_-xPQ
+        icon: fas fa-link
+        description: ""
+      - name: 通信、电子与硬科技的框架性理解指南（三十一）：硅光芯片（一）
+        url: https://mp.weixin.qq.com/s/3-6XAToO0rfZNaeE8ptV1Q
+        icon: fas fa-link
+        description: ""
+      - name: 定制外腔可调谐激光器 &gt; LioniX International
+        url: https://www.lionix-international.com/about-us/blog/custom-external-cavity-tunable-lasers/
+        icon: fas fa-link
+        description: ""
+      - name: 用于 FMCW LiDAR 的混合集成超低线宽和快速啁啾激光器
+        url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-17-30420&amp;id=488564
+        icon: fas fa-link
+        description: ""
+      - name: "Error during import torch, NameError: name &#039;_C&#039; is not defined · Issue #1633 · pytorch/pytorch · GitHub"
+        url: https://github.com/pytorch/pytorch/issues/1633
+        icon: fab fa-github
+        description: ""
+      - name: (8条消息) Notepad++代码编辑器——Verilog编译_verilog编辑器_voiue的博客-CSDN博客
+        url: https://blog.csdn.net/voiue/article/details/126868169
+        icon: fas fa-link
+        description: ""
+      - name: 咸鱼FPGA - 博客园
+        url: https://www.cnblogs.com/xianyufpga/
+        icon: fas fa-link
+        description: ""
+      - name: UVM中sequence的两种启动方式 - SOC验证工程师 - 博客园
+        url: https://www.cnblogs.com/Alfred-HOO/articles/15477981.html
+        icon: fas fa-link
+        description: ""
+      - name: Verilog 基础知识第一部分
+        url: https://www.asic-world.com/systemverilog/basic1.html#Block_diagram_of_arbiter
+        icon: fas fa-link
+        description: ""
+      - name: Verilog Basics Part-I
+        url: https://www.asic-world.com/systemverilog/basic1.html#Data_Type
+        icon: fas fa-link
+        description: ""
+      - name: WWW.TESTBENCH.IN - Verilog Basic Constructs
+        url: http://testbench.in/VT_09_BLOCK_STATEMENTS.html
+        icon: fas fa-link
+        description: ""
+      - name: Welcome To SystemVerilog Central
+        url: https://www.asic-world.com/systemverilog/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 一个简单的UVM项目的学习记录（一）——准备工作 - TooyamaYuuouji - 博客园
+        url: https://www.cnblogs.com/Lexington-CV2/articles/16597207.html
+        icon: fas fa-link
+        description: ""
+      - name: (8条消息) vcs与verdi学习记录_vcs file.list_IC学习者的博客-CSDN博客
+        url: https://blog.csdn.net/I_LOVE_MCU/article/details/125871580?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-5-125871580-blog-103022656.pc_relevant_multi_platform_whitelistv3&amp;spm=1001.2101.3001.4242.4&amp;utm_relevant_index=8
+        icon: fas fa-link
+        description: ""
+      - name: (8条消息) verdi使用linux命令,verdi工具的使用_古筝圈小透明的博客-CSDN博客
+        url: https://blog.csdn.net/weixin_29611573/article/details/116612835
+        icon: fas fa-link
+        description: ""
+      - name: 如何使用VCS和verdi跑通《UVM实战》上的例子_在线网速测试
+        url: https://www.wangsu123.cn/news/21341.html
+        icon: fas fa-link
+        description: ""
+      - name: (8条消息) Verdi命令行调用选项用法_uvm_verdi_trace_Alfred.HOO的博客-CSDN博客
+        url: https://blog.csdn.net/Michael177/article/details/124639341
+        icon: fas fa-link
+        description: ""
+      - name: (8条消息) SV学习笔记—队列及方法_sv队列_Verification_White的博客-CSDN博客
+        url: https://blog.csdn.net/qq_41337361/article/details/122779375
+        icon: fas fa-link
+        description: ""
+      - name: (8条消息) 如何学习FPGA_如何学好fpga_队长-Leader的博客-CSDN博客
+        url: https://blog.csdn.net/k331922164/article/details/44626989
+        icon: fas fa-link
+        description: ""
+      - name: (8条消息) 真正的全栈工程师！B站硬核UP主自己造了一个激光雷达_3Ｄ视觉工坊的博客-CSDN博客
+        url: https://blog.csdn.net/Yong_Qi2015/article/details/122773595?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167862220316800182113343%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;request_id=167862220316800182113343&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-24-122773595-null-null.142^v73^insert_down3,201^v4^add_ask,239^v2^insert_chatgpt&amp;utm_term=%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%20fpga&amp;spm=1018.2226.3001.4187
+        icon: fas fa-link
+        description: ""
+      - name: AHB总线总结 - 知乎
+        url: https://zhuanlan.zhihu.com/p/455218479
+        icon: fas fa-link
+        description: ""
+      - name: 传感器 | 免费全文 | FMCW LiDAR 系统可降低硬件复杂性和后处理技术以提高距离分辨率
+        url: https://www.mdpi.com/1424-8220/20/22/6676
+        icon: fas fa-link
+        description: ""
+      - name: 正点原子资料下载中心 — 正点原子资料下载中心 1.0.0 文档
+        url: http://www.openedv.com/docs/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 集成运放LM324芯片手册解读 - 百度文库
+        url: https://wenku.baidu.com/view/4fbbdd935cbfc77da26925c52cc58bd6318693f8.html?_wkts_=1678703770317&amp;bdQuery=lm324%E8%8A%AF%E7%89%87%E6%89%8B%E5%86%8C
+        icon: fas fa-link
+        description: ""
+      - name: N9030A用户手册-明确特点.pdf-原创力文档
+        url: https://max.book118.com/html/2022/0314/8051131034004063.shtm
+        icon: fas fa-link
+        description: ""
+      - name: N9030A用户手册 - 百度文库
+        url: https://wenku.baidu.com/view/b63f63f24693daef5ef73d93.html?_wkts_=1678717082389&amp;bdQuery=pxa+N9030A+3Hz-26.5GHz+kysight%E9%A2%91%E8%B0%B1%E4%BB%AA%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C
+        icon: fas fa-link
+        description: ""
+      - name: "Open-Source Application Development :: add0n.com"
+        url: https://add0n.com/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 相关软件下载 | 油小猴
+        url: https://www.youxiaohou.com/download.html
+        icon: fas fa-link
+        description: ""
+      - name: Keil MDK µVision 5 下载安装及破解教程 - 吴川斌的博客
+        url: https://www.mr-wu.cn/keil-mdk-uvision-5-crack/
+        icon: fas fa-link
+        description: ""
+      - name: Adobe Acrobat Pro DC 2022 软件分享 - 吴川斌的博客
+        url: https://www.mr-wu.cn/adobe-acrobat-pro-dc-2022-free-download/
+        icon: fas fa-link
+        description: ""
+      - name: AutoCAD 2023 中英文完整安装包以及 AutoCAD 2023 LT 轻量版安装包分享（史上最容易安装版本） - 吴川斌的博客
+        url: https://www.mr-wu.cn/autocad-2023-free-download/
+        icon: fas fa-link
+        description: ""
+      - name: Release Motrix v1.6.11 · agalwood/Motrix
+        url: https://github.com/agalwood/Motrix/releases/tag/v1.6.11
+        icon: fab fa-github
+        description: ""
+      - name: AutoCAD 2021 绿色精简版 PCB Layout 看结构图完全够用了 - 吴川斌的博客
+        url: https://www.mr-wu.cn/autocad-2021-lite/
+        icon: fas fa-link
+        description: ""
+      - name: Keysight PathWave ADS 2022 Update 2.0 软件下载与安装教程 - 吴川斌的博客
+        url: https://www.mr-wu.cn/pathwave-advanced-design-system-ads-2022-update-20/
+        icon: fas fa-link
+        description: ""
+      - name: (15条消息) 分析Verilog版的step模块的原理图_verilog自动生成模块连接图_liaoxinmeng的博客-CSDN博客
+        url: https://blog.csdn.net/liaoxinmeng/article/details/5605593
+        icon: fas fa-link
+        description: ""
+      - name: "md: ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性"
+        url: https://gitee.com/Doocs/md?_from=gitee_search
+        icon: fas fa-link
+        description: ""
+      - name: (16条消息) 将示波器数据导入到MATLAB/Simulink_示波器测量的数据怎么输入simulink_麦克斯韦不懂薛定谔方程的博客-CSDN博客
+        url: https://blog.csdn.net/qq_36697422/article/details/114954412
+        icon: fas fa-link
+        description: ""
+      - name: 示波器数据导入MATLAB进行后续分析_51CTO博客_simulink导入数据
+        url: https://blog.51cto.com/zoomdy/5871780
+        icon: fas fa-link
+        description: ""
+      - name: (16条消息) 惠普触控板使用指南_软硬件技巧 篇一：原来这才是正确的触摸板使用方式！..._weixin_39637920的博客-CSDN博客
+        url: https://blog.csdn.net/weixin_39637920/article/details/111522897
+        icon: fas fa-link
+        description: ""
+      - name: 基于UVM的AMBA总线验证环境的设计与实现_唐婧文.pdf
+        url: chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://docdown.cnki.net/docdown/fulltext/download?q=NP7oX%2BLD6jdCNfVk3NNhrm9MJp3d6yNDS%2Fvyi4YVgZM%2FuDcCejk9rqNtF%2FapHQo4%2BWBJaWomcbemXg9%2BlAbKac%2FlsQvSg2C%2F2Qa5754qBSyO9NfZEymTLmN0Hmg%2F6V513VgV0vlsBWEQSK1u2KndudJI76WM6Sfs%2FGBfI1kKtaFEafmkzX5YFWissVoqAD0gXeCri5Ko5DaSH%2Bh3VB4LQadGqE0L5q4IoXBb17vPbzWnW0PULOq6%2FOV%2B80ocW3A4t5bGiPkvty1wKi7HcBV08kDSZATT7Tq5AqZjXR3LVv%2FlJEBGKhFOLDKsYPgizBVqIEeI7GLz8Pnurt8Aqsdxsk8qxiOf7Hs90V9R34c3cKK4kEEE8DJ0mgTRatFjHRWoX43Vpi9SNcCQMpmuYGV4gDONtMF3we6oQXJ%2BBssb3UHV2Z1hMhdDeT%2BfASfkPiFV0zE6TikJPFYDWhU0utsQgRNuZZaGwe7EjMaKax%2FSTuZv%2Fidpa1IibVk3Xa8NbmEsAVdPQc1U%2FiGSdZNajMpJVafzyzEy3kMWFbQySqgzl%2FiscaOb5TpDiUoJGp1ugKlJ&amp;invoice=v5qsVK2wVQpl6Z92Jd%2BduzGg4uBd%2Fz7Nkz2UV%2BM4DWYFfATg0AP1pIFp1LuOl2YnUjWNGG2l4CLWf1KWE0CbJ2Yxz0Yh%2FuomE7PeKcVJ3NvWkuuZLIu1pF220ZnBTrGdTMQSOLrkQB0ZOxOksTc1a5uQVTo%2FBmjk1KcwyJdfhxo%3D
+        icon: fas fa-link
+        description: ""
+      - name: IC验证SV&amp;UVM语法常识总结_sv中￥urandom_range(100)_矜持小梦的博客-CSDN博客
+        url: https://blog.csdn.net/m0_58209201/article/details/126305072
+        icon: fas fa-link
+        description: ""
+      - name: 油小猴
+        url: https://www.youxiaohou.com/?utm=assistant.crx
+        icon: fas fa-link
+        description: ""
+      - name: 免费密码管理界的神竟然收费了！难民们该去哪儿？
+        url: https://mp.weixin.qq.com/s/6wFzKnDQ8Q2LSI9SMkGugg
+        icon: fas fa-link
+        description: ""
+      - name: Fitz&#039;s Blog
+        url: https://zhouyuqian.com/
+        icon: fas fa-link
+        description: ""
+      - name: 免费电路图仿真软件LTspice - EDA资源使用讨论 - EETOP 创芯网论坛 (原名：电子顶级开发网) -
+        url: https://bbs.eetop.cn/thread-405241-1-1.html
+        icon: fas fa-link
+        description: ""
+      - name: Cadence学习篇(12) Cadence中使用Pspice进行电路仿真_pspice仿真_学工科的皮皮志^_^的博客-CSDN博客
+        url: https://blog.csdn.net/qq_45138815/article/details/126086994
+        icon: fas fa-link
+        description: ""
+      - name: PSpice仿真培训 | 从入门到精通21周学习计划
+        url: https://app.ma.scrmtech.com/material/read/index?new_id=299556&amp;wx_id=1396
+        icon: fas fa-link
+        description: ""
+      - name: 阿里云盘分享
+        url: https://www.aliyundrive.com/s/M5e7i4Vngeu
+        icon: fas fa-link
+        description: ""
+      - name: "解决git链接失败问题fatal: unable to connect to github.com: github.com-杂草猿工记-个人博客-韦炳生博客-技术分享"
+        url: http://wxauth.alipay168.cn/blog/index/detail/item/747.html
+        icon: fas fa-link
+        description: ""
+      - name: $random随机函数 - _见贤_思齐 - 博客园
+        url: https://www.cnblogs.com/csjt/p/15825987.html
+        icon: fas fa-link
+        description: ""
+      - name: 【Verilog 常见设计】（0）二进制码和格雷码互转 Verilog 实现_verilog 格雷码_Linest-5的博客-CSDN博客
+        url: https://blog.csdn.net/m0_61298445/article/details/127039824
+        icon: fas fa-link
+        description: ""
+      - name: 二进制与格雷码之间的转换的Verilog实现（更多一点的讨论）_51CTO博客_格雷码转二进制 verilog
+        url: https://blog.51cto.com/u_15338162/5216405
+        icon: fas fa-link
+        description: ""
+      - name: SVA——断言属性之序列（sequence与property的用法）_disable iff_SD.ZHAI的博客-CSDN博客
+        url: https://blog.csdn.net/weixin_46022434/article/details/105469623
+        icon: fas fa-link
+        description: ""
+      - name: 吾爱破解又出神器，比付费还好用！
+        url: https://mp.weixin.qq.com/s/39elHhXqvAiO3K1ueDg6jg
+        icon: fas fa-link
+        description: ""
+      - name: 重大更新！微软封杀后，又满血复活了！
+        url: https://mp.weixin.qq.com/s/khqLvTWu-aKKoW11Ya-phQ
+        icon: fas fa-link
+        description: ""
+      - name: Pycharm 中 virtualenv、pipenv、conda 虚拟环境的用法 - R-Bear - 博客园
+        url: https://www.cnblogs.com/R-bear/p/18076448
+        icon: fas fa-link
+        description: ""
+      - name: Syncthing开源免费跨平台的文件同步工具-利用Syncthing搭建免费同步网盘 - 玉米花豆 - 博客园
+        url: https://www.cnblogs.com/fisherpau/p/17475009.html
+        icon: fas fa-link
+        description: ""
+      - name: linux基础篇（一）——GCC和Makefile编译过程_gcc makefile编译-CSDN博客
+        url: https://blog.csdn.net/sinat_31039061/article/details/98885275
+        icon: fas fa-link
+        description: ""
+      - name: github配置SSH-Key保姆级教程 - 知乎
+        url: https://zhuanlan.zhihu.com/p/688103044
+        icon: fas fa-link
+        description: ""
+      - name: 教你Linux如何安装git并配置参数以及如何上传下载GitHub代码（超详细）-阿里云开发者社区
+        url: https://developer.aliyun.com/article/1299311
+        icon: fas fa-link
+        description: ""
+      - name: "【已解决】fatal: Authentication failed for ‘https://github.com/.../‘-CSDN博客"
+        url: https://blog.csdn.net/m0_73156359/article/details/135585372
+        icon: fas fa-link
+        description: ""
+      - name: （12）笔记：使用阿里云私有仓库存储自己的docker镜像 - 知乎
+        url: https://zhuanlan.zhihu.com/p/669796818
+        icon: fas fa-link
+        description: ""
+      - name: docker基础(八)之docker commit，docker tag,docker cp,docker diff_docker commit tag-CSDN博客
+        url: https://blog.csdn.net/qq_40804558/article/details/136946940
+        icon: fas fa-link
+        description: ""
+      - name: Docker命令手册 · 看云
+        url: https://www.kancloud.cn/woshigrey/docker
+        icon: fas fa-link
+        description: ""
+      - name: Synopsys全套docker镜像使用指南 - 空白MAX - 博客园
+        url: https://www.cnblogs.com/icparadigm/p/13827684.html
+        icon: fas fa-link
+        description: ""
+      - name: 关闭win10防火墙和网络保护通知_总是弹出防火墙和网络保护-CSDN博客
+        url: https://blog.csdn.net/qq_31852001/article/details/88993902
+        icon: fas fa-link
+        description: ""
+      - name: Windows 字体美化经验 | 咸鱼阿康
+        url: https://xianyukang.com/windows-font-optimization.html
+        icon: fas fa-link
+        description: ""
+      - name: 爱之梦梦 | Link3
+        url: https://link3.cc/miffy520
+        icon: fas fa-link
+        description: ""
+      - name: 首页 | JIKE
+        url: https://jike.info/
+        icon: fas fa-link
+        description: ""
+      - name: 《行尸走肉：达里尔·迪克森第二季》迅雷下载/在线观看-灵异惊悚-美剧天堂
+        url: https://www.meijutt.tv/content/meiju29486.html
+        icon: fas fa-link
+        description: ""
+      - name: 约一个月linux办公环境使用体验 - sasasatori - 博客园
+        url: https://www.cnblogs.com/sasasatori/p/16748484.html
+        icon: fas fa-link
+        description: ""
+      - name: 一个字符占几个字节 - he何航 - 博客园
+        url: https://www.cnblogs.com/hangqqw/p/16639042.html
+        icon: fas fa-link
+        description: ""
+      - name: 分享一些永硕E盘搭建的资源站 - 我的书签
+        url: https://it-cxy.top/?c=article&amp;id=17
+        icon: fas fa-link
+        description: ""
+      - name: AMBA-CHI协议和一致性维护及CMN600-CSDN博客
+        url: https://blog.csdn.net/cy413026/article/details/136461145
         icon: fas fa-link
         description: ""
   - name: 移动设备书签
