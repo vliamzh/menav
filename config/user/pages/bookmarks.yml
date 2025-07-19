@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-19T03:28:58.540Z
+# 由bookmark-processor.js生成于 2025-07-19T17:22:40.220Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1510,157 +1510,6 @@ categories:
         url: https://vliamzh.github.io/menav/#
         icon: fab fa-github
         description: ""
-  - name: daohang
-    icon: fas fa-folder
-    sites:
-      - name: 笔点 - 用心做最简洁的网址导航_首页
-        url: https://www.bidianer.com/#/
-        icon: fas fa-link
-        description: ""
-      - name: 炫猿
-        url: https://xydh.fun/
-        icon: fas fa-link
-        description: ""
-      - name: 福利吧导航 | 发现更大的世界
-        url: https://fuliba123.com/
-        icon: fas fa-link
-        description: ""
-      - name: 果汁排行榜 - 各类榜单排名大全
-        url: http://guozhivip.com/rank/
-        icon: fas fa-link
-        description: ""
-      - name: 爱达杂货铺 | 收集那些有用的东西|爱达导航
-        url: https://adzhp.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 聚点 - 基于关键词的新闻订阅
-        url: https://www.judian.com.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 果汁实验室 - 发现国内外优质网站
-        url: http://guozhivip.com/lab/
-        icon: fas fa-link
-        description: ""
-      - name: 虫部落-让搜索更简单！
-        url: https://www.chongbuluo.com/
-        icon: fas fa-link
-        description: ""
-      - name: NO404 - 让天下不再有消失的网站！
-        url: https://www.no404.me/
-        icon: fas fa-link
-        description: ""
-      - name: 聚奇异学习导航 | 一个收集学习网站的地方！
-        url: http://ju71.com/
-        icon: fas fa-link
-        description: ""
-      - name: 老司机导航 - 来不及了！
-        url: http://www.giffox.com/
-        icon: fas fa-link
-        description: ""
-      - name: 快导航网 | 站在前方,为你导航
-        url: https://www.hifast.cn/#term-12
-        icon: fas fa-link
-        description: ""
-      - name: 学术网址大全--国外免费论文|国内期刊发表|论文网站导航|文献翻译大全
-        url: https://www.ulunwen.com/tools/xueshu.php
-        icon: fas fa-link
-        description: ""
-      - name: 便查主页
-        url: https://www.52blc.com/
-        icon: fas fa-link
-        description: ""
-      - name: 政府_政府部门_政府机构_国家机关_卫生部_教育部_2345网址导航-2345.com
-        url: http://www.2345.com/inner/gov.htm
-        icon: fas fa-link
-        description: ""
-      - name: 龙轩导航-做个有用的导航
-        url: http://ilxdh.com/
-        icon: fas fa-link
-        description: ""
-      - name: 效率集-自定义网址导航,多重搜索
-        url: http://www.xiaolvji.com/
-        icon: fas fa-link
-        description: ""
-      - name: Byr.wiki·北邮人导航
-        url: http://byr.wiki/
-        icon: fas fa-link
-        description: ""
-      - name: 24k导航 | 专注全网优质网址、优质资源分享。
-        url: https://www.24kdh.com/?cate=26#
-        icon: fas fa-link
-        description: ""
-      - name: 某柠檬_柠檬味的导航
-        url: https://www.moulem.com/?h08z
-        icon: fas fa-link
-        description: ""
-      - name: 柴都导航 – 汇集全网优质网址及资源
-        url: https://www.chaidu.com/
-        icon: fas fa-link
-        description: ""
-      - name: Google学术,SCI-HUB网址,-文献下载导航
-        url: http://489.org/
-        icon: fas fa-link
-        description: ""
-      - name: 谷歌学术_Google学术搜索-科研干货导航
-        url: http://www.9312.net/
-        icon: fas fa-link
-        description: ""
-      - name: Mirror List学术搜索
-        url: https://www.library.ac.cn/
-        icon: fas fa-link
-        description: ""
-      - name: Google学术搜索|SCI-HUB网址|谷歌学术搜索|龙猫学术导航
-        url: http://www.6453.net/
-        icon: fas fa-link
-        description: ""
-      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
-        url: https://www.ak47s.cn/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 西瓜导航 | 收藏你喜欢的网站！
-        url: https://nav.hzwdd.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 醉长生 - 有资源的网址导航
-        url: https://www.3zcs.com/
-        icon: fas fa-link
-        description: ""
-      - name: 恰鹿后花园 - 恰鹿导航后花园分享一切
-        url: https://hou.qialu999.com/
-        icon: fas fa-link
-        description: ""
-      - name: 龙喵网 - 有态度的网址导航
-        url: https://ailongmiao.com/
-        icon: fas fa-link
-        description: ""
-      - name: 国外网址导航_国外网站大全_116呀
-        url: http://www.116ya.com/
-        icon: fas fa-link
-        description: ""
-      - name: GuideBook-让工作学习生活更高效！
-        url: https://www.guidebook.top/
-        icon: fas fa-link
-        description: ""
-      - name: 优质导航网站收录
-        url: https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dsttCDySxp7SqbiSQh/viwptan7PxYzp
-        icon: fas fa-link
-        description: ""
-      - name: 搜图导航-一款强大且智能的设计师导航
-        url: https://www.91sotu.com/
-        icon: fas fa-link
-        description: ""
-      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
-        url: https://www.ak47s.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 五花八门导航2.0_一个简洁的高度自定义导航网站
-        url: http://lxqnsys.com/d/#/index
-        icon: fas fa-link
-        description: ""
-      - name: 阡途导航
-        url: http://123.tentod.com/
-        icon: fas fa-link
-        description: ""
   - name: 备用域名
     icon: fas fa-folder
     sites:
@@ -2167,6 +2016,69 @@ categories:
         url: https://www.douban.com/gallery/topic/157/
         icon: fas fa-link
         description: ""
+  - name: daohang
+    icon: fas fa-folder
+    sites:
+      - name: 笔点 - 用心做最简洁的网址导航_首页
+        url: https://www.bidianer.com/#/
+        icon: fas fa-link
+        description: ""
+      - name: 爱达杂货铺 | 收集那些有用的东西|爱达导航
+        url: https://adzhp.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 果汁实验室 - 发现国内外优质网站
+        url: http://guozhivip.com/lab/
+        icon: fas fa-link
+        description: ""
+      - name: 虫部落-让搜索更简单！
+        url: https://www.chongbuluo.com/
+        icon: fas fa-link
+        description: ""
+      - name: 老司机导航 - 来不及了！
+        url: http://www.giffox.com/
+        icon: fas fa-link
+        description: ""
+      - name: 政府_政府部门_政府机构_国家机关_卫生部_教育部_2345网址导航-2345.com
+        url: http://www.2345.com/inner/gov.htm
+        icon: fas fa-link
+        description: ""
+      - name: 效率集-自定义网址导航,多重搜索
+        url: http://www.xiaolvji.com/
+        icon: fas fa-link
+        description: ""
+      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
+        url: https://www.ak47s.cn/index.html
+        icon: fas fa-link
+        description: ""
+      - name: 龙喵网 - 有态度的网址导航
+        url: https://ailongmiao.com/
+        icon: fas fa-link
+        description: ""
+      - name: 国外网址导航_国外网站大全_116呀
+        url: http://www.116ya.com/
+        icon: fas fa-link
+        description: ""
+      - name: GuideBook-让工作学习生活更高效！
+        url: https://www.guidebook.top/
+        icon: fas fa-link
+        description: ""
+      - name: 优质导航网站收录
+        url: https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dsttCDySxp7SqbiSQh/viwptan7PxYzp
+        icon: fas fa-link
+        description: ""
+      - name: AK47网址导航 - 清爽绿色无广告,上网从这里开始
+        url: https://www.ak47s.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 阡途导航
+        url: http://123.tentod.com/
+        icon: fas fa-link
+        description: ""
+      - name: (99+ 封私信 / 4 条消息) Total Commander用法介绍 - 知乎
+        url: https://zhuanlan.zhihu.com/p/163301413
+        icon: fas fa-link
+        description: ""
       - name: Google
         url: https://www.google.com/
         icon: fab fa-google
@@ -2174,6 +2086,25 @@ categories:
       - name: YouTube
         url: https://www.youtube.com/
         icon: fab fa-youtube
+        description: ""
+  - name: 日常
+    icon: fas fa-folder
+    sites:
+      - name: 社区广场 - 虫部落
+        url: https://www.chongbuluo.com/webisbeautiful/community.html
+        icon: fas fa-link
+        description: ""
+      - name: 排行榜话题 - 美卡论坛
+        url: https://www.uscardforum.com/top
+        icon: fas fa-link
+        description: ""
+      - name: LINUX DO - 新的理想型社区
+        url: https://linux.do/
+        icon: fas fa-link
+        description: ""
+      - name: 理想股票论坛-专业财经股票宝藏炒股社区
+        url: https://www.55188.com/
+        icon: fas fa-link
         description: ""
   - name: 待归档
     icon: fas fa-folder
@@ -3203,5 +3134,9 @@ categories:
         description: ""
       - name: XFLTD养鸡场-地址发布页，收藏我回家不迷路！
         url: https://xfltd.cc/
+        icon: fas fa-link
+        description: ""
+      - name: 新标签页
+        url: chrome://newtab/
         icon: fas fa-link
         description: ""
