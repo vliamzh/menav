@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-22T15:20:02.783Z
+# 由bookmark-processor.js生成于 2025-07-24T14:44:30.928Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2105,6 +2105,10 @@ categories:
         description: ""
       - name: 豆瓣话题 - 我的公考之路
         url: https://www.douban.com/gallery/topic/157/
+        icon: fas fa-link
+        description: ""
+      - name: 巴哈姆特電玩資訊站
+        url: https://www.gamer.com.tw/
         icon: fas fa-link
         description: ""
   - name: 待归档
