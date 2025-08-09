@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-08T11:25:40.866Z
+# 由bookmark-processor.js生成于 2025-08-09T03:21:33.714Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2018,6 +2018,10 @@ categories:
         description: ""
       - name: (99+ 封私信 / 4 条消息) Total Commander用法介绍 - 知乎
         url: https://zhuanlan.zhihu.com/p/163301413
+        icon: fas fa-link
+        description: ""
+      - name: 狩猎妻子们-免费在线观看-爱看机器人-ikanbot.com
+        url: https://v.ikanbot.com/play/924797
         icon: fas fa-link
         description: ""
       - name: Google
