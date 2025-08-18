@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-18T12:34:27.831Z
+# 由bookmark-processor.js生成于 2025-08-18T13:09:57.623Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2024,10 +2024,6 @@ categories:
         url: https://v.ikanbot.com/play/924797
         icon: fas fa-link
         description: ""
-      - name: Levels.fyi | 薪资查询与职业发展工具
-        url: https://www.levels.fyi/zh-cn/
-        icon: fas fa-link
-        description: ""
       - name: Google
         url: https://www.google.com/
         icon: fab fa-google
@@ -2117,6 +2113,10 @@ categories:
         description: ""
       - name: 巴哈姆特電玩資訊站
         url: https://www.gamer.com.tw/
+        icon: fas fa-link
+        description: ""
+      - name: Levels.fyi | 薪资查询与职业发展工具
+        url: https://www.levels.fyi/zh-cn/
         icon: fas fa-link
         description: ""
   - name: 待归档
