@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-18T06:14:49.709Z
+# 由bookmark-processor.js生成于 2025-10-19T04:00:10.753Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2028,14 +2028,6 @@ categories:
         url: https://v.ikanbot.com/play/924797
         icon: fas fa-link
         description: ""
-      - name: Google
-        url: https://www.google.com/
-        icon: fab fa-google
-        description: ""
-      - name: YouTube
-        url: https://www.youtube.com/
-        icon: fab fa-youtube
-        description: ""
   - name: 日常
     icon: fas fa-folder
     sites:
@@ -2123,11 +2115,19 @@ categories:
         url: https://www.levels.fyi/zh-cn/
         icon: fas fa-link
         description: ""
-      - name: douyin.com/user/self?from_tab_name=main&amp;showTab=record
-        url: https://www.douyin.com/user/self?from_tab_name=main&amp;showTab=record
+      - name: Google
+        url: https://www.google.com/
+        icon: fab fa-google
+        description: ""
+      - name: YouTube
+        url: https://www.youtube.com/
+        icon: fab fa-youtube
+        description: ""
+      - name: 抖音
+        url: https://www.douyin.com/?recommend=1
         icon: fas fa-link
         description: ""
-      - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+      - name: bilibili
         url: https://www.bilibili.com/
         icon: fas fa-link
         description: ""
