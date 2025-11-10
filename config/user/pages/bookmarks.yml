@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-09T13:01:03.568Z
+# 由bookmark-processor.js生成于 2025-11-10T14:45:56.379Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1681,6 +1681,10 @@ categories:
         url: https://www.libvio.app/
         icon: fas fa-link
         description: ""
+      - name: 爱壹帆-海量高清视频免费在线观看
+        url: https://www.iyf.tv/
+        icon: fas fa-link
+        description: ""
   - name: some_sites
     icon: fas fa-folder
     sites:
@@ -2024,10 +2028,6 @@ categories:
         url: https://zhuanlan.zhihu.com/p/163301413
         icon: fas fa-link
         description: ""
-      - name: 狩猎妻子们-免费在线观看-爱看机器人-ikanbot.com
-        url: https://v.ikanbot.com/play/924797
-        icon: fas fa-link
-        description: ""
   - name: 日常
     icon: fas fa-folder
     sites:
@@ -2103,12 +2103,12 @@ categories:
         url: https://www.1point3acres.com/bbs/
         icon: fas fa-link
         description: ""
-      - name: 豆瓣话题 - 我的公考之路
-        url: https://www.douban.com/gallery/topic/157/
-        icon: fas fa-link
-        description: ""
       - name: 巴哈姆特電玩資訊站
         url: https://www.gamer.com.tw/
+        icon: fas fa-link
+        description: ""
+      - name: 豆瓣话题 - 我的公考之路
+        url: https://www.douban.com/gallery/topic/157/
         icon: fas fa-link
         description: ""
       - name: Levels.fyi | 薪资查询与职业发展工具
