@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-03-08T05:47:57.978Z
+# 由bookmark-processor.js生成于 2026-03-08T14:09:42.326Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2031,6 +2031,10 @@ categories:
       - name: 剑来 第2季 - 全集免费在线播放 - 4k影视
         url: https://www.4kvm.net/seasons/jianlai2
         icon: fas fa-link
+        description: ""
+      - name: Listen 1 音乐播放器
+        url: https://listen1.github.io/listen1/
+        icon: fab fa-github
         description: ""
   - name: 日常
     icon: fas fa-folder
