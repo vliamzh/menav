@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-03-31T14:03:56.687Z
+# 由bookmark-processor.js生成于 2026-04-01T14:15:29.937Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -693,6 +693,10 @@ categories:
         description: ""
       - name: Anaconda, Python, Jupyter和PyCharm介绍_jupyter和python和pychorm-CSDN博客
         url: https://blog.csdn.net/qq_38998213/article/details/132411374
+        icon: fas fa-link
+        description: ""
+      - name: Re:Source — 经典论坛，现代体验
+        url: https://lv1.io/resource/
         icon: fas fa-link
         description: ""
   - name: 备用域名
