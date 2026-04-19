@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-04-19T03:24:46.894Z
+# 由bookmark-processor.js生成于 2026-04-19T14:44:01.413Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2287,6 +2287,21 @@ categories:
         description: ""
       - name: bilibili
         url: https://www.bilibili.com/
+        icon: fas fa-link
+        description: ""
+  - name: 其他书签
+    icon: fas fa-folder
+    sites:
+      - name: 针对github权限导致hexo部署失败的解决方案 - silencetea - 博客园
+        url: https://www.cnblogs.com/xsilence/p/6001938.html
+        icon: fas fa-link
+        description: ""
+      - name: Hexo 博客搭建指南 | 阿基米东 Freedom Blog
+        url: https://luhuadong.com/hexo/
+        icon: fas fa-link
+        description: ""
+      - name: 从零开始搭建 Hexo 博客简明教程（2024版） — Philo Li
+        url: https://www.philoli.com/blog/building-a-blog-from-scratch/
         icon: fas fa-link
         description: ""
   - name: 移动设备书签
