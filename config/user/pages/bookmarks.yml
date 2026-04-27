@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-04-27T03:39:36.096Z
+# 由bookmark-processor.js生成于 2026-04-27T16:00:28.708Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2302,6 +2302,14 @@ categories:
         description: ""
       - name: 从零开始搭建 Hexo 博客简明教程（2024版） — Philo Li
         url: https://www.philoli.com/blog/building-a-blog-from-scratch/
+        icon: fas fa-link
+        description: ""
+      - name: 「海外支付」一篇搞定香港银行开户 全流程攻略 &amp; 线下开户经验分享 - 搞七捻三 - LINUX DO
+        url: https://linux.do/t/topic/1404702/108
+        icon: fas fa-link
+        description: ""
+      - name: 2026年最新香港开户全程记录 - 搞七捻三 - LINUX DO
+        url: https://linux.do/t/topic/1980148/20
         icon: fas fa-link
         description: ""
   - name: 移动设备书签
