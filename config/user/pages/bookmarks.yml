@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-05-21T04:01:33.412Z
+# 由bookmark-processor.js生成于 2026-05-22T04:47:20.576Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2417,5 +2417,9 @@ categories:
         description: ""
       - name: 新标签页
         url: chrome://newtab/
+        icon: fas fa-link
+        description: ""
+      - name: BigAMap
+        url: https://www.bigamap.cn/
         icon: fas fa-link
         description: ""
