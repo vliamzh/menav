@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-05-28T00:42:34.625Z
+# 由bookmark-processor.js生成于 2026-05-29T00:38:03.819Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1340,6 +1340,10 @@ categories:
         description: ""
       - name: 大时代 NGA玩家社区
         url: https://ngabbs.com/thread.php?fid=706
+        icon: fas fa-link
+        description: ""
+      - name: 论坛 - STAGE1ₛₜ
+        url: https://stage1st.com/2b/forum.php
         icon: fas fa-link
         description: ""
   - name: 待归档
