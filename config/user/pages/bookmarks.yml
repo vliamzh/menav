@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-05-30T04:59:04.381Z
+# 由bookmark-processor.js生成于 2026-05-31T02:53:06.566Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -697,6 +697,10 @@ categories:
         description: ""
       - name: Re:Source — 经典论坛，现代体验
         url: https://lv1.io/resource/
+        icon: fas fa-link
+        description: ""
+      - name: greasyfork-zh.org
+        url: https://greasyfork-zh.org/
         icon: fas fa-link
         description: ""
   - name: 备用域名
