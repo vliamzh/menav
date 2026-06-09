@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-06-05T00:24:35.306Z
+# 由bookmark-processor.js生成于 2026-06-09T10:24:31.549Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -220,6 +220,18 @@ categories:
         description: ""
       - name: XFLTD养鸡场-地址发布页，收藏我回家不迷路！
         url: https://xn--l6qx3l1p4e.cc/
+        icon: fas fa-link
+        description: ""
+      - name: RackNerd - Introducing Infrastructure Stability
+        url: https://www.racknerd.com/
+        icon: fas fa-link
+        description: ""
+      - name: "frank-lam/vps-ss: 🌓 手把手教你，搭建搬瓦工 SS 代理。带你科学上网，窥探墙外的世界。"
+        url: https://github.com/frank-lam/vps-ss
+        icon: fab fa-github
+        description: ""
+      - name: 购买VPS/VPN必看优劣势2分钟搞懂 — Write.as
+        url: https://write.as/2z8yk2m9rcnrbpzv
         icon: fas fa-link
         description: ""
   - name: Potplayer
