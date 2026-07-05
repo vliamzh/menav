@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-07-04T05:00:50.385Z
+# 由bookmark-processor.js生成于 2026-07-05T05:41:41.909Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -884,6 +884,10 @@ categories:
         description: ""
       - name: 爱壹帆-海量高清视频免费在线观看
         url: https://www.iyf.tv/
+        icon: fas fa-link
+        description: ""
+      - name: 雪落影视 | 沉浸式影视平台
+        url: https://xl02.com.de/
         icon: fas fa-link
         description: ""
   - name: some_sites
