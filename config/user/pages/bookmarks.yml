@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-07-11T03:57:51.936Z
+# 由bookmark-processor.js生成于 2026-07-13T09:41:06.814Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -888,6 +888,10 @@ categories:
         description: ""
       - name: 雪落影视 | 沉浸式影视平台
         url: https://xl02.com.de/
+        icon: fas fa-link
+        description: ""
+      - name: 国产剧 _ 厂长资源
+        url: https://www.cz4k.com/gcj
         icon: fas fa-link
         description: ""
   - name: some_sites
