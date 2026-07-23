@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-07-18T04:23:14.705Z
+# 由bookmark-processor.js生成于 2026-07-23T17:48:37.896Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1370,6 +1370,22 @@ categories:
         url: https://stage1st.com/2b/forum.php
         icon: fas fa-link
         description: ""
+      - name: 看板 Stock - [股票] [學術] - PTT網頁版
+        url: https://www.pttweb.cc/bbs/Stock
+        icon: fas fa-link
+        description: ""
+      - name: 雪落影视 | 沉浸式影视平台
+        url: https://www.xlys02.com/
+        icon: fas fa-link
+        description: ""
+      - name: Dcard
+        url: https://www.dcard.tw/f
+        icon: fas fa-link
+        description: ""
+      - name: TOP123导航 | 探索全球互联网的起点
+        url: https://123.topstip.com/#menu-1
+        icon: fas fa-link
+        description: ""
   - name: 待归档
     icon: fas fa-folder
     sites:
@@ -2450,4 +2466,8 @@ categories:
       - name: BigAMap
         url: https://www.bigamap.cn/
         icon: fas fa-link
+        description: ""
+      - name: "GitHub - Loyalsoldier/clash-rules: 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 · GitHub"
+        url: https://github.com/Loyalsoldier/clash-rules
+        icon: fab fa-github
         description: ""
