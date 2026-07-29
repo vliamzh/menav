@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-07-28T14:41:37.808Z
+# 由bookmark-processor.js生成于 2026-07-29T15:12:01.028Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2331,6 +2331,17 @@ categories:
         description: ""
       - name: bilibili
         url: https://www.bilibili.com/
+        icon: fas fa-link
+        description: ""
+  - name: Invest
+    icon: fas fa-folder
+    sites:
+      - name: 沪深300智能定投策略 v4.0.0 - 10维度桥水风格评分
+        url: https://www.btcdca.me/hs300/
+        icon: fas fa-link
+        description: ""
+      - name: 韩国散户杠杆 · 精细化监控
+        url: https://kimpremium.com/
         icon: fas fa-link
         description: ""
   - name: 其他书签
