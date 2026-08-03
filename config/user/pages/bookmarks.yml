@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-08-02T13:38:16.205Z
+# 由bookmark-processor.js生成于 2026-08-03T09:44:17.983Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -715,6 +715,10 @@ categories:
         url: https://greasyfork-zh.org/
         icon: fas fa-link
         description: ""
+      - name: Clash 机场专用名词解释字典（终极指南｜V2Ray / Vless / Trojan / Reality 全面科普）
+        url: https://tanqingbo.cn/mingci/
+        icon: fas fa-link
+        description: ""
   - name: 备用域名
     icon: fas fa-folder
     sites:
@@ -1384,6 +1388,10 @@ categories:
         description: ""
       - name: TOP123导航 | 探索全球互联网的起点
         url: https://123.topstip.com/#menu-1
+        icon: fas fa-link
+        description: ""
+      - name: NodeLoc - 自由、平等、友好、开放、有趣的交流社区
+        url: https://www.nodeloc.com/
         icon: fas fa-link
         description: ""
   - name: 待归档
