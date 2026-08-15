@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-08-15T03:54:07.714Z
+# 由bookmark-processor.js生成于 2026-08-15T07:22:00.835Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2489,4 +2489,8 @@ categories:
       - name: "GitHub - Loyalsoldier/clash-rules: 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 · GitHub"
         url: https://github.com/Loyalsoldier/clash-rules
         icon: fab fa-github
+        description: ""
+      - name: Mi姐交易笔记
+        url: https://mi.yanbo.im/
+        icon: fas fa-link
         description: ""
