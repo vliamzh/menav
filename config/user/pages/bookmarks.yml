@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-08-20T16:35:54.234Z
+# 由bookmark-processor.js生成于 2026-08-21T13:26:58.185Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -718,6 +718,10 @@ categories:
       - name: Clash 机场专用名词解释字典（终极指南｜V2Ray / Vless / Trojan / Reality 全面科普）
         url: https://tanqingbo.cn/mingci/
         icon: fas fa-link
+        description: ""
+      - name: "How to fix “Pairing File Error” or UDID SideStore even : r/SideStore"
+        url: https://www.reddit.com/r/SideStore/comments/1tqo69a/how_to_fix_pairing_file_error_or_udid_sidestore/
+        icon: fab fa-reddit
         description: ""
   - name: 备用域名
     icon: fas fa-folder
@@ -2493,4 +2497,8 @@ categories:
       - name: Mi姐交易笔记
         url: https://mi.yanbo.im/
         icon: fas fa-link
+        description: ""
+      - name: "GitHub - bebound/AltGallery: Curated AltStore sources for IPA projects on GitHub · GitHub"
+        url: https://github.com/bebound/AltGallery
+        icon: fab fa-github
         description: ""
