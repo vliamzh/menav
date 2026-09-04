@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-09-03T13:54:48.070Z
+# 由bookmark-processor.js生成于 2026-09-04T11:16:10.760Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -725,6 +725,10 @@ categories:
         description: ""
       - name: 盈立证券新加坡开户教程：大陆身份证开户、费率与完整流程 - 美股券商 | 投资导航
         url: https://invest-nav.com/tutorials/us-brokers/text/usmart-sg-account-opening/
+        icon: fas fa-link
+        description: ""
+      - name: 首页 | 最实用的电报中文搜索网站
+        url: https://tg.hsu.life/
         icon: fas fa-link
         description: ""
   - name: 备用域名
