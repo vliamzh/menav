@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-09-12T17:17:44.999Z
+# 由bookmark-processor.js生成于 2026-09-19T13:46:49.053Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -737,6 +737,10 @@ categories:
         description: ""
       - name: Windows+Arch Linux双系统基本安装 - 团子的血域城堡
         url: https://silvertuanzi.github.io/2025/02/10/windows-with-arch/
+        icon: fab fa-github
+        description: ""
+      - name: Shorin-ArchLinux-Guide/wiki/archlinux/安装ArchLinux.md at main · SHORiN-KiWATA/Shorin-ArchLinux-Guide · GitHub
+        url: https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide/blob/main/wiki/archlinux/%E5%AE%89%E8%A3%85ArchLinux.md
         icon: fab fa-github
         description: ""
   - name: 备用域名
