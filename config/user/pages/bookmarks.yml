@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-10-16T16:17:58.492Z
+# 由bookmark-processor.js生成于 2026-10-16T16:56:00.690Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2374,6 +2374,13 @@ categories:
         description: ""
       - name: 韩国散户杠杆 · 精细化监控
         url: https://kimpremium.com/
+        icon: fas fa-link
+        description: ""
+  - name: 量化
+    icon: fas fa-folder
+    sites:
+      - name: 量化交易系列（十一）：技术指标在币圈到底有没有用？——附入场出场实战框架 - warm3snow - 博客园
+        url: https://www.cnblogs.com/informatics/p/19759745
         icon: fas fa-link
         description: ""
   - name: 其他书签
