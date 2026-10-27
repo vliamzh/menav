@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-10-24T08:14:17.190Z
+# 由bookmark-processor.js生成于 2026-10-27T14:26:29.081Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2381,6 +2381,22 @@ categories:
     sites:
       - name: 量化交易系列（十一）：技术指标在币圈到底有没有用？——附入场出场实战框架 - warm3snow - 博客园
         url: https://www.cnblogs.com/informatics/p/19759745
+        icon: fas fa-link
+        description: ""
+      - name: BigAMap 大A地图 - A股市场观察应用
+        url: https://www.bigamap.cn/app
+        icon: fas fa-link
+        description: ""
+      - name: KZG Option House · 美股期权日报
+        url: https://optionbrief.com/
+        icon: fas fa-link
+        description: ""
+      - name: ETF Flow Terminal · BTC/ETH 机构资金流与市场全景
+        url: https://www.kzgflow.com/
+        icon: fas fa-link
+        description: ""
+      - name: MARKET MAP｜A股市场云图
+        url: https://kzgmap.com/?surface=porcelain&amp;layer=assets&amp;u=cn&amp;c=chg&amp;a=cap&amp;v=all&amp;d=2026-09-30&amp;start=2026-08-18&amp;event=2022-03-16&amp;tone=cn
         icon: fas fa-link
         description: ""
       - name: 搜索 - Microsoft 必应
