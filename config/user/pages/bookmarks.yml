@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-11-02T14:21:30.034Z
+# 由bookmark-processor.js生成于 2026-11-14T07:01:49.573Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2397,6 +2397,10 @@ categories:
         description: ""
       - name: MARKET MAP｜A股市场云图
         url: https://kzgmap.com/?surface=porcelain&amp;layer=assets&amp;u=cn&amp;c=chg&amp;a=cap&amp;v=all&amp;d=2026-09-30&amp;start=2026-08-18&amp;event=2022-03-16&amp;tone=cn
+        icon: fas fa-link
+        description: ""
+      - name: 主页 / X
+        url: https://x.com/home
         icon: fas fa-link
         description: ""
       - name: 搜索 - Microsoft 必应
